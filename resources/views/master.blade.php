@@ -96,13 +96,14 @@
                  </div>
                  <ul class="menu-list">
                     <li class="menu-item-has-children active">
-                       <a href="#" class="drop-down">Home</a><i class="bi bi-plus dropdown-icon"></i>
+                       <a href="#home" class="drop-down">Home</a><i class="bi bi-plus dropdown-icon"></i>
 
                     </li>
-                    <li><a href="about.html">About Us</a></li>
-                    <li><a href="about.html">Areas Of Expertise</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#team">Our Team</a></li>
+                    <li><a href="#areas">Areas Of Expertise</a></li>
 
-                    <li><a href="about.html">Contact Us</a></li>
+                    <li><a href="#contact">Contact Us</a></li>
                  </ul>
                  <div class="d-lg-none d-block">
                     <ul class="topbar-right">
@@ -164,10 +165,10 @@
                <div class="col-lg-12 pl--95 mb-100 pr--95">
                   <div class="footer-top">
                      <div class="row g-lg-4 gy-5">
-                        <div class="col-lg-4  col-md-8 d-flex justify-content-lg-start">
+                        <div class="col-lg-6  col-md-8 d-flex justify-content-lg-start">
                            <div class="footer-widget">
                               <div class="subscribed-area">
-                                 <h2>Don’t Missed Subscribed!</h2>
+                                 <h2>Don’t Miss! Out Stay Subscribed!</h2>
                                  <form>
                                     <div class="form-inner">
                                        <input type="text" placeholder="Enter Email">
@@ -218,16 +219,15 @@
                         <div class="col-lg-3 col-md-4 d-flex justify-content-lg-center justify-content-md-end">
                            <div class="footer-widget">
                               <div class="widget-title">
-                                 <h3>About Us</h3>
+                                 <h3>Quick Links</h3>
                               </div>
                               <div class="menu-container">
                                  <ul>
-                                    <li><a href="about.html">Our Story</a></li>
-                                    <li><a href="contact.html">Contact Us</a></li>
-                                    <li><a href="faq.html">FAQ’s</a></li>
-                                    <li><a href="our-people1.html">Our Consultants</a></li>
-                                    <li><a href="career.html">Careers</a></li>
-                                    <li><a href="case-study1.html">Case Study</a></li>
+                                    <li><a href="{{url('/about-us')}}">Home</a></li>
+                                    <li><a href="{{url('/about-us')}}">Our Story</a></li>
+                                    <li><a href="{{url('/contact-us')}}">Contact Us</a></li>
+                                    <li><a href="{{url('/our-team')}}">Our Team</a></li>
+
                                  </ul>
                               </div>
                            </div>
@@ -235,35 +235,20 @@
                         <div class="col-lg-3 col-md-6 d-flex justify-content-lg-center">
                            <div class="footer-widget">
                               <div class="widget-title">
-                                 <h3>Industries</h3>
+                                 <h3>Area of Expertise</h3>
                               </div>
                               <div class="menu-container">
                                  <ul>
-                                    <li><a href="industry-details.html">Real Estate</a></li>
-                                    <li><a href="industry-details.html">Construction</a></li>
-                                    <li><a href="industry-details.html">Health Care</a></li>
-                                    <li><a href="industry-details.html">Finnace Service</a></li>
-                                    <li><a href="industry-details.html">Dealership</a></li>
-                                    <li><a href="industry-details.html">Low Firm Service</a></li>
-                                    <li><a href="industry-details.html">Family Business</a></li>
+                                    <li><a href="#">Commercial and Corporate Law:</a></li>
+                                    <li><a href="#">Conveyancing and Banking & Finance</a></li>
+                                    <li><a href="#">Litigation & Dispute Resolution</a></li>
+                                    <li><a href="#">Tax Law</a></li>
+                                    <li><a href="#">Technology Law and Intellectual Property</a></li>
                                  </ul>
                               </div>
                            </div>
                         </div>
-                        <div class="col-lg-2 col-md-6 d-flex justify-content-md-end">
-                           <div class="footer-widget">
-                              <div class="widget-title">
-                                 <h3>Legelity</h3>
-                              </div>
-                              <div class="menu-container">
-                                 <ul>
-                                    <li><a href="terms-conditions.html">Privacy & Policy</a></li>
-                                    <li><a href="terms-conditions.html">Terms & Condition</a></li>
-                                    <li><a href="#">Cookie Policy</a></li>
-                                 </ul>
-                              </div>
-                           </div>
-                        </div>
+
                      </div>
                   </div>
                </div>
@@ -275,7 +260,7 @@
                      <ul class="footer-menu">
                         <li>
                            <a href="services1.html">
-                              International Business
+                              Terms and Conditions
                               <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10">
                                  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.48878 0.885308L0 9.37364L0.626356 10L9.11469 1.51122V7.38037H10V0H2.61963V0.885308H8.48878Z" />
                               </svg>
@@ -283,7 +268,7 @@
                         </li>
                         <li>
                            <a href="services1.html">
-                              Marketing Research
+                              Privacy Policy
                               <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10">
                                  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.48878 0.885308L0 9.37364L0.626356 10L9.11469 1.51122V7.38037H10V0H2.61963V0.885308H8.48878Z" />
                               </svg>
@@ -291,7 +276,7 @@
                         </li>
                         <li>
                            <a href="services1.html">
-                              Finance Consulting
+                              Cookie Policy
                               <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10">
                                  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.48878 0.885308L0 9.37364L0.626356 10L9.11469 1.51122V7.38037H10V0H2.61963V0.885308H8.48878Z" />
                               </svg>
@@ -299,28 +284,22 @@
                         </li>
                         <li>
                            <a href="services1.html">
-                              Human Resources
+                              Copyright
                               <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10">
                                  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.48878 0.885308L0 9.37364L0.626356 10L9.11469 1.51122V7.38037H10V0H2.61963V0.885308H8.48878Z" />
                               </svg>
                            </a>
                         </li>
+
                         <li>
-                           <a href="services1.html">
-                              Technology
-                              <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10">
-                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M8.48878 0.885308L0 9.37364L0.626356 10L9.11469 1.51122V7.38037H10V0H2.61963V0.885308H8.48878Z" />
-                              </svg>
-                           </a>
-                        </li>
-                        <li>
-                           <a href="services1.html">
-                              Start-up
-                              <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10">
-                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M8.48878 0.885308L0 9.37364L0.626356 10L9.11469 1.51122V7.38037H10V0H2.61963V0.885308H8.48878Z" />
-                              </svg>
-                           </a>
-                        </li>
+                            <a href="services1.html">
+                               Sitemap
+                               <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10">
+                                  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.48878 0.885308L0 9.37364L0.626356 10L9.11469 1.51122V7.38037H10V0H2.61963V0.885308H8.48878Z" />
+                               </svg>
+                            </a>
+                         </li>
+
                      </ul>
                   </div>
                   <div class="footer-btm">
