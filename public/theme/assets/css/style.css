@@ -18069,3 +18069,10 @@ footer .footer-btm .social-area li a:hover i {
 .blog-img img{
     min-height:275px !important;
 }
+
+
+.people-img img{
+    width:100% !important;
+    max-height:375px !important;
+    object-fit: cover;
+}

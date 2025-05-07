@@ -251,7 +251,7 @@
  <div class="people-section mb-130" id="team">
     <div class="container-fluid one pl--95">
        <div class="row">
-          <div class="col-lg-5">
+          <div class="col-lg-6">
              <div class="people-left-content pr--95">
                 <div class="section-title1 two">
                    <span>Our People</span>
@@ -272,7 +272,7 @@
                 </div>
              </div>
           </div>
-          <div class="col-lg-7">
+          <div class="col-lg-6">
              <div class="row g-4">
                 <div class="col-md-6">
                    <div class="people-card3 magnetic-item">
