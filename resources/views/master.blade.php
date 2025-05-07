@@ -28,13 +28,13 @@
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Mutai Advocates LLP" />
         <meta property="og:locale" content="en_KE" />
-        <meta property="og:image" content="https://www.mutaiadvocatesllp.com/uploads/lit.jpg" />
+        <meta property="og:image" content="https://www.mutaiadvocatesllp.com/uploads/cormercial.jpg" />
 
         <!-- Twitter Card Tags -->
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Mutai Advocates LLP | Expert Legal Services in Nairobi" />
         <meta name="twitter:description" content="Trusted Nairobi-based law firm offering a wide range of legal services. Located at Jambo Apartments next to Naivas Prestige." />
-        <meta name="twitter:image" content="https://www.mutaiadvocatesllp.com/uploads/lit.jpg" />
+        <meta name="twitter:image" content="https://www.mutaiadvocatesllp.com/uploads/cormercial.jpg" />
 
         <link rel="apple-touch-icon" sizes="180x180" href="{{asset('favicon/apple-touch-icon.png')}}">
         <link rel="icon" type="image/png" sizes="32x32" href="{{asset('favicon/favicon-32x32.png')}}">
