@@ -15,24 +15,24 @@
       <link rel="stylesheet" href="{{asset('theme/assets/css/style.css')}}">
 
       <!-- SEO Meta Tags -->
-        <title>Technology Law & Intellectual Property Services | Mutai Advocates LLC</title>
-        <meta name="description" content="Mutai Advocates LLC offers expert services in Technology Law and Intellectual Property, providing legal advice and representation for businesses and individuals in Nairobi.">
+        <title>Technology Law & Intellectual Property Services | Mutai Advocates LLP</title>
+        <meta name="description" content="Mutai Advocates LLP offers expert services in Technology Law and Intellectual Property, providing legal advice and representation for businesses and individuals in Nairobi.">
         <meta name="keywords" content="Technology Law, Intellectual Property, IP Lawyers, Intellectual Property Rights, Patent Law, Copyright Law, Trademark Law, IP Services Nairobi, Legal Services for Technology Companies">
-        <meta name="author" content="Mutai Advocates LLC">
+        <meta name="author" content="Mutai Advocates LLP">
 
         <!-- Open Graph Tags (Facebook, LinkedIn, etc.) -->
-        <meta property="og:title" content="Technology Law & Intellectual Property Services | Mutai Advocates LLC" />
-        <meta property="og:description" content="Mutai Advocates LLC offers expert Technology Law and Intellectual Property services in Nairobi, including patent, copyright, and trademark protection for businesses and individuals." />
+        <meta property="og:title" content="Technology Law & Intellectual Property Services | Mutai Advocates LLP" />
+        <meta property="og:description" content="Mutai Advocates LLP offers expert Technology Law and Intellectual Property services in Nairobi, including patent, copyright, and trademark protection for businesses and individuals." />
         <meta property="og:image" content="https://mutaiadvocatesllp.com/uploads/interlectual.jpg" />
         <meta property="og:url" content="https://mutaiadvocatesllp.com/area-of-expertise/technology-law-and-intellectual-property" />
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Mutai Advocates LLC" />
+        <meta property="og:site_name" content="Mutai Advocates LLP" />
         <meta property="og:locale" content="en_KE" />
 
         <!-- Twitter Card Tags -->
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Technology Law & Intellectual Property Services | Mutai Advocates LLC" />
-        <meta name="twitter:description" content="Expert legal services in Technology Law and Intellectual Property, including IP rights, patent, copyright, and trademark law, provided by Mutai Advocates LLC in Nairobi." />
+        <meta name="twitter:title" content="Technology Law & Intellectual Property Services | Mutai Advocates LLP" />
+        <meta name="twitter:description" content="Expert legal services in Technology Law and Intellectual Property, including IP rights, patent, copyright, and trademark law, provided by Mutai Advocates LLP in Nairobi." />
         <meta name="twitter:image" content="https://mutaiadvocatesllp.com/uploads/interlectual.jpg" />
 
 
@@ -329,7 +329,7 @@
                   </div>
                   <div class="footer-btm">
                      <div class="copyright-area">
-                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLC</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
+                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLP</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
                      </div>
                      <ul class="social-area">
                         <li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>

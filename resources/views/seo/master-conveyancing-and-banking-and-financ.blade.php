@@ -15,24 +15,24 @@
       <link rel="stylesheet" href="{{asset('theme/assets/css/style.css')}}">
 
         <!-- SEO Meta Tags -->
-        <title>Conveyancing and Banking & Finance | Mutai Advocates LLC - Legal Experts in Nairobi</title>
-        <meta name="description" content="Mutai Advocates LLC offers expert legal services in Conveyancing, Banking & Finance Law, including property transactions, mortgage agreements, and debt recovery in Nairobi, Kenya.">
+        <title>Conveyancing and Banking & Finance | Mutai Advocates LLP - Legal Experts in Nairobi</title>
+        <meta name="description" content="Mutai Advocates LLP offers expert legal services in Conveyancing, Banking & Finance Law, including property transactions, mortgage agreements, and debt recovery in Nairobi, Kenya.">
         <meta name="keywords" content="Conveyancing Law Kenya, Banking and Finance Law Nairobi, Property Transactions, Mortgage Agreements, Debt Recovery, Legal Services Nairobi, Mutai Advocates, Banking Lawyers Kenya, Conveyancing Experts">
-        <meta name="author" content="Mutai Advocates LLC">
+        <meta name="author" content="Mutai Advocates LLP">
 
         <!-- Open Graph Tags (Facebook, LinkedIn, etc.) -->
-        <meta property="og:title" content="Conveyancing and Banking & Finance | Mutai Advocates LLC - Legal Experts in Nairobi" />
-        <meta property="og:description" content="Specialized legal services in Conveyancing, Banking & Finance, including property deals, mortgages, and debt recovery. Contact Mutai Advocates LLC for expert legal solutions in Nairobi, Kenya." />
+        <meta property="og:title" content="Conveyancing and Banking & Finance | Mutai Advocates LLP - Legal Experts in Nairobi" />
+        <meta property="og:description" content="Specialized legal services in Conveyancing, Banking & Finance, including property deals, mortgages, and debt recovery. Contact Mutai Advocates LLP for expert legal solutions in Nairobi, Kenya." />
         <meta property="og:image" content="https://mutaiadvocatesllp.com/uploads/conveyancing.jpg" />
         <meta property="og:url" content="https://mutaiadvocatesllp.com/area-of-expertise/conveyancing-and-banking-and-finance" />
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Mutai Advocates LLC" />
+        <meta property="og:site_name" content="Mutai Advocates LLP" />
         <meta property="og:locale" content="en_KE" />
 
         <!-- Twitter Card Tags -->
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Conveyancing and Banking & Finance | Mutai Advocates LLC - Legal Experts in Nairobi" />
-        <meta name="twitter:description" content="Expert legal services in Conveyancing, Banking & Finance law, including property transactions, mortgage agreements, and debt recovery. Contact Mutai Advocates LLC in Nairobi." />
+        <meta name="twitter:title" content="Conveyancing and Banking & Finance | Mutai Advocates LLP - Legal Experts in Nairobi" />
+        <meta name="twitter:description" content="Expert legal services in Conveyancing, Banking & Finance law, including property transactions, mortgage agreements, and debt recovery. Contact Mutai Advocates LLP in Nairobi." />
         <meta name="twitter:image" content="https://mutaiadvocatesllp.com/uploads/conveyancing.jpg" />
 
 
@@ -329,7 +329,7 @@
                   </div>
                   <div class="footer-btm">
                      <div class="copyright-area">
-                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLC</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
+                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLP</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
                      </div>
                      <ul class="social-area">
                         <li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>

@@ -17,23 +17,23 @@
 
       <!-- SEO Meta Tags -->
        <!-- SEO Meta Tags -->
-        <title>About Us | Mutai Advocates LLC – Experienced Legal Experts in Nairobi</title>
-        <meta name="description" content="Learn more about Mutai Advocates LLC, a premier law firm in Nairobi specializing in litigation, commercial law, real estate, family law, and legal consultancy. Discover our mission, values, and experienced legal team.">
-        <meta name="keywords" content="About Mutai Advocates, Law Firm Nairobi, Legal Experts Kenya, Litigation Lawyers, Real Estate Law, Family Law Nairobi, Commercial Law Kenya, Legal Consultancy, Experienced Lawyers, Mutai Advocates LLC">
-        <meta name="author" content="Mutai Advocates LLC">
+        <title>About Us | Mutai Advocates LLP – Experienced Legal Experts in Nairobi</title>
+        <meta name="description" content="Learn more about Mutai Advocates LLP, a premier law firm in Nairobi specializing in litigation, commercial law, real estate, family law, and legal consultancy. Discover our mission, values, and experienced legal team.">
+        <meta name="keywords" content="About Mutai Advocates, Law Firm Nairobi, Legal Experts Kenya, Litigation Lawyers, Real Estate Law, Family Law Nairobi, Commercial Law Kenya, Legal Consultancy, Experienced Lawyers, Mutai Advocates LLP">
+        <meta name="author" content="Mutai Advocates LLP">
 
         <!-- Open Graph Tags (Facebook, LinkedIn, etc.) -->
-        <meta property="og:title" content="About Mutai Advocates LLC – Experienced Legal Experts in Nairobi" />
-        <meta property="og:description" content="Discover the mission, vision, and legal team behind Mutai Advocates LLC. We specialize in commercial law, litigation, real estate, and family law in Nairobi." />
+        <meta property="og:title" content="About Mutai Advocates LLP – Experienced Legal Experts in Nairobi" />
+        <meta property="og:description" content="Discover the mission, vision, and legal team behind Mutai Advocates LLP. We specialize in commercial law, litigation, real estate, and family law in Nairobi." />
         <meta property="og:url" content="https://mutaiadvocatesllp.com/about-us" />
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Mutai Advocates LLC" />
+        <meta property="og:site_name" content="Mutai Advocates LLP" />
         <meta property="og:locale" content="en_KE" />
 
         <!-- Twitter Card Tags -->
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="About Us | Mutai Advocates LLC – Experienced Legal Experts in Nairobi" />
-        <meta name="twitter:description" content="Learn more about the team and services at Mutai Advocates LLC, a leading law firm in Nairobi specializing in litigation, commercial law, and real estate." />
+        <meta name="twitter:title" content="About Us | Mutai Advocates LLP – Experienced Legal Experts in Nairobi" />
+        <meta name="twitter:description" content="Learn more about the team and services at Mutai Advocates LLP, a leading law firm in Nairobi specializing in litigation, commercial law, and real estate." />
                 <link rel="apple-touch-icon" sizes="180x180" href="{{asset('favicon/apple-touch-icon.png')}}">
         <link rel="icon" type="image/png" sizes="32x32" href="{{asset('favicon/favicon-32x32.png')}}">
         <link rel="icon" type="image/png" sizes="16x16" href="{{asset('favicon/favicon-16x16.png')}}">
@@ -326,7 +326,7 @@
                   </div>
                   <div class="footer-btm">
                      <div class="copyright-area">
-                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLC</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
+                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLP</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
                      </div>
                      <ul class="social-area">
                         <li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>

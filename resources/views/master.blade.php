@@ -16,22 +16,22 @@
 
 
       <!-- SEO Meta Tags -->
-        <title>Mutai Advocates LLC | Expert Legal Services in Nairobi, Kenya</title>
-        <meta name="description" content="Mutai Advocates LLC is a premier law firm based at Jambo Apartments, Nairobi, offering expert legal services in litigation, commercial law, real estate, family law, and more. Call +254 727 045 485 or email hello@mutaiadvocatesllp.com.">
-        <meta name="keywords" content="Mutai Advocates, Law Firm Nairobi, Legal Services Kenya, Litigation Lawyers, Real Estate Lawyers, Commercial Law Kenya, Family Law Kenya, Advocates Nairobi, Legal Consultancy Nairobi, Mutai Advocates LLC">
-        <meta name="author" content="Mutai Advocates LLC">
+        <title>Mutai Advocates LLP | Expert Legal Services in Nairobi, Kenya</title>
+        <meta name="description" content="Mutai Advocates LLP is a premier law firm based at Jambo Apartments, Nairobi, offering expert legal services in litigation, commercial law, real estate, family law, and more. Call +254 727 045 485 or email hello@mutaiadvocatesllp.com.">
+        <meta name="keywords" content="Mutai Advocates, Law Firm Nairobi, Legal Services Kenya, Litigation Lawyers, Real Estate Lawyers, Commercial Law Kenya, Family Law Kenya, Advocates Nairobi, Legal Consultancy Nairobi, Mutai Advocates LLP">
+        <meta name="author" content="Mutai Advocates LLP">
 
         <!-- Open Graph Tags (Facebook, LinkedIn, etc.) -->
-        <meta property="og:title" content="Mutai Advocates LLC | Expert Legal Services in Nairobi, Kenya" />
-        <meta property="og:description" content="Based at Jambo Apartments, Mutai Advocates LLC provides legal services in litigation, real estate, commercial law, and more. Reach us at +254 727 045 485." />
+        <meta property="og:title" content="Mutai Advocates LLP | Expert Legal Services in Nairobi, Kenya" />
+        <meta property="og:description" content="Based at Jambo Apartments, Mutai Advocates LLP provides legal services in litigation, real estate, commercial law, and more. Reach us at +254 727 045 485." />
         <meta property="og:url" content="https://mutaiadvocatesllp.com" />
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Mutai Advocates LLC" />
+        <meta property="og:site_name" content="Mutai Advocates LLP" />
         <meta property="og:locale" content="en_KE" />
 
         <!-- Twitter Card Tags -->
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Mutai Advocates LLC | Expert Legal Services in Nairobi" />
+        <meta name="twitter:title" content="Mutai Advocates LLP | Expert Legal Services in Nairobi" />
         <meta name="twitter:description" content="Trusted Nairobi-based law firm offering a wide range of legal services. Located at Jambo Apartments next to Naivas Prestige." />
 
         <link rel="apple-touch-icon" sizes="180x180" href="{{asset('favicon/apple-touch-icon.png')}}">
@@ -335,7 +335,7 @@
                   </div>
                   <div class="footer-btm">
                      <div class="copyright-area">
-                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLC</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
+                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLP</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
                      </div>
                      <ul class="social-area">
                         <li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>

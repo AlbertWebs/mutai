@@ -16,23 +16,23 @@
 
 
     <!-- SEO Meta Tags -->
-    <title>Contact Us | Mutai Advocates LLC - Legal Experts in Nairobi, Kenya</title>
-    <meta name="description" content="Get in touch with Mutai Advocates LLC for legal consultations in Commercial Law, Litigation, Conveyancing, and more. Visit us at Jambo Apartments, Nairobi or call +254 727 045 485.">
+    <title>Contact Us | Mutai Advocates LLP - Legal Experts in Nairobi, Kenya</title>
+    <meta name="description" content="Get in touch with Mutai Advocates LLP for legal consultations in Commercial Law, Litigation, Conveyancing, and more. Visit us at Jambo Apartments, Nairobi or call +254 727 045 485.">
     <meta name="keywords" content="Contact Mutai Advocates, Law Firm Nairobi, Legal Consultations, Commercial Law Kenya, Litigation Lawyers, Conveyancing, Banking & Finance, Legal Services Nairobi, Legal Experts Kenya">
-    <meta name="author" content="Mutai Advocates LLC">
+    <meta name="author" content="Mutai Advocates LLP">
 
     <!-- Open Graph Tags (Facebook, LinkedIn, etc.) -->
-    <meta property="og:title" content="Contact Us | Mutai Advocates LLC - Legal Experts in Nairobi, Kenya" />
-    <meta property="og:description" content="Reach out to Mutai Advocates LLC for expert legal services in Nairobi. Visit our offices at Jambo Apartments or call us at +254 727 045 485." />
+    <meta property="og:title" content="Contact Us | Mutai Advocates LLP - Legal Experts in Nairobi, Kenya" />
+    <meta property="og:description" content="Reach out to Mutai Advocates LLP for expert legal services in Nairobi. Visit our offices at Jambo Apartments or call us at +254 727 045 485." />
     <meta property="og:url" content="https://mutaiadvocatesllp.com/contact-us" />
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="Mutai Advocates LLC" />
+    <meta property="og:site_name" content="Mutai Advocates LLP" />
     <meta property="og:locale" content="en_KE" />
 
     <!-- Twitter Card Tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Contact Mutai Advocates LLC | Legal Experts in Nairobi" />
-    <meta name="twitter:description" content="For legal consultations in Nairobi, get in touch with Mutai Advocates LLC. Call +254 727 045 485 or visit our office at Jambo Apartments." />
+    <meta name="twitter:title" content="Contact Mutai Advocates LLP | Legal Experts in Nairobi" />
+    <meta name="twitter:description" content="For legal consultations in Nairobi, get in touch with Mutai Advocates LLP. Call +254 727 045 485 or visit our office at Jambo Apartments." />
 
 
         <link rel="apple-touch-icon" sizes="180x180" href="{{asset('favicon/apple-touch-icon.png')}}">
@@ -327,7 +327,7 @@
                   </div>
                   <div class="footer-btm">
                      <div class="copyright-area">
-                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLC</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
+                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLP</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
                      </div>
                      <ul class="social-area">
                         <li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>

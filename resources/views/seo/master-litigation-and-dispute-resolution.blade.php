@@ -15,24 +15,24 @@
       <link rel="stylesheet" href="{{asset('theme/assets/css/style.css')}}">
 
        <!-- SEO Meta Tags -->
-        <title>Litigation and Dispute Resolution | Mutai Advocates LLC - Legal Experts in Nairobi</title>
-        <meta name="description" content="Mutai Advocates LLC provides expert legal services in Litigation and Dispute Resolution. We offer representation in court, arbitration, mediation, and other dispute resolution methods in Nairobi, Kenya.">
+        <title>Litigation and Dispute Resolution | Mutai Advocates LLP - Legal Experts in Nairobi</title>
+        <meta name="description" content="Mutai Advocates LLP provides expert legal services in Litigation and Dispute Resolution. We offer representation in court, arbitration, mediation, and other dispute resolution methods in Nairobi, Kenya.">
         <meta name="keywords" content="Litigation Lawyers Kenya, Dispute Resolution Nairobi, Arbitration Services, Mediation Lawyers, Court Representation, Legal Disputes, Mutai Advocates, Legal Services Nairobi, Litigation Experts">
-        <meta name="author" content="Mutai Advocates LLC">
+        <meta name="author" content="Mutai Advocates LLP">
 
         <!-- Open Graph Tags (Facebook, LinkedIn, etc.) -->
-        <meta property="og:title" content="Litigation and Dispute Resolution | Mutai Advocates LLC - Legal Experts in Nairobi" />
-        <meta property="og:description" content="Mutai Advocates LLC provides expert services in Litigation and Dispute Resolution, including court representation, arbitration, and mediation for clients in Nairobi, Kenya." />
+        <meta property="og:title" content="Litigation and Dispute Resolution | Mutai Advocates LLP - Legal Experts in Nairobi" />
+        <meta property="og:description" content="Mutai Advocates LLP provides expert services in Litigation and Dispute Resolution, including court representation, arbitration, and mediation for clients in Nairobi, Kenya." />
         <meta property="og:image" content="https://mutaiadvocatesllp.com/uploads/cormercial.jpg" />
         <meta property="og:url" content="https://mutaiadvocatesllp.com/area-of-expertise/litigation-and-dispute-resolution" />
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Mutai Advocates LLC" />
+        <meta property="og:site_name" content="Mutai Advocates LLP" />
         <meta property="og:locale" content="en_KE" />
 
         <!-- Twitter Card Tags -->
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Litigation and Dispute Resolution | Mutai Advocates LLC - Legal Experts in Nairobi" />
-        <meta name="twitter:description" content="Expert legal services in Litigation and Dispute Resolution, including representation in court, arbitration, and mediation in Nairobi, Kenya. Contact Mutai Advocates LLC today." />
+        <meta name="twitter:title" content="Litigation and Dispute Resolution | Mutai Advocates LLP - Legal Experts in Nairobi" />
+        <meta name="twitter:description" content="Expert legal services in Litigation and Dispute Resolution, including representation in court, arbitration, and mediation in Nairobi, Kenya. Contact Mutai Advocates LLP today." />
         <meta name="twitter:image" content="https://mutaiadvocatesllp.com/uploads/cormercial.jpg" />
 
 
@@ -328,7 +328,7 @@
                   </div>
                   <div class="footer-btm">
                      <div class="copyright-area">
-                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLC</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
+                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLP</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
                      </div>
                      <ul class="social-area">
                         <li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>

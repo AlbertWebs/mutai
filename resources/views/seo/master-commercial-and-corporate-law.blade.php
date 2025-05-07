@@ -16,24 +16,24 @@
 
 
         <!-- SEO Meta Tags -->
-        <title>Commercial and Corporate Law | Mutai Advocates LLC - Expert Legal Solutions in Nairobi</title>
-        <meta name="description" content="Mutai Advocates LLC offers expert legal services in Commercial and Corporate Law, including contract drafting, mergers & acquisitions, and regulatory compliance in Nairobi, Kenya.">
+        <title>Commercial and Corporate Law | Mutai Advocates LLP - Expert Legal Solutions in Nairobi</title>
+        <meta name="description" content="Mutai Advocates LLP offers expert legal services in Commercial and Corporate Law, including contract drafting, mergers & acquisitions, and regulatory compliance in Nairobi, Kenya.">
         <meta name="keywords" content="Commercial Law Kenya, Corporate Law Nairobi, Business Contracts, Mergers & Acquisitions, Regulatory Compliance, Legal Consultancy, Mutai Advocates, Corporate Lawyers Kenya, Business Law Firm Nairobi">
-        <meta name="author" content="Mutai Advocates LLC">
+        <meta name="author" content="Mutai Advocates LLP">
 
         <!-- Open Graph Tags (Facebook, LinkedIn, etc.) -->
-        <meta property="og:title" content="Commercial and Corporate Law | Mutai Advocates LLC - Expert Legal Solutions in Nairobi" />
-        <meta property="og:description" content="Professional legal services in Commercial and Corporate Law. Specializing in contract drafting, mergers & acquisitions, and regulatory compliance. Contact Mutai Advocates LLC in Nairobi, Kenya." />
+        <meta property="og:title" content="Commercial and Corporate Law | Mutai Advocates LLP - Expert Legal Solutions in Nairobi" />
+        <meta property="og:description" content="Professional legal services in Commercial and Corporate Law. Specializing in contract drafting, mergers & acquisitions, and regulatory compliance. Contact Mutai Advocates LLP in Nairobi, Kenya." />
         <meta property="og:image" content="https://mutaiadvocatesllp.com/uploads/cormercial.jpg" />
         <meta property="og:url" content="https://mutaiadvocatesllp.com/area-of-expertise/commercial-and-corporate-law" />
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Mutai Advocates LLC" />
+        <meta property="og:site_name" content="Mutai Advocates LLP" />
         <meta property="og:locale" content="en_KE" />
 
         <!-- Twitter Card Tags -->
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Commercial and Corporate Law | Mutai Advocates LLC - Expert Legal Solutions in Nairobi" />
-        <meta name="twitter:description" content="Offering expert legal services in Commercial and Corporate Law in Nairobi, Kenya. Contact Mutai Advocates LLC for business contracts, mergers, and regulatory compliance." />
+        <meta name="twitter:title" content="Commercial and Corporate Law | Mutai Advocates LLP - Expert Legal Solutions in Nairobi" />
+        <meta name="twitter:description" content="Offering expert legal services in Commercial and Corporate Law in Nairobi, Kenya. Contact Mutai Advocates LLP for business contracts, mergers, and regulatory compliance." />
         <meta name="twitter:image" content="https://mutaiadvocatesllp.com/uploads/cormercial.jpg" />
 
 
@@ -329,7 +329,7 @@
                   </div>
                   <div class="footer-btm">
                      <div class="copyright-area">
-                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLC</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
+                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLP</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
                      </div>
                      <ul class="social-area">
                         <li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>

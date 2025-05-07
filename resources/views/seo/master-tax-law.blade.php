@@ -15,24 +15,24 @@
       <link rel="stylesheet" href="{{asset('theme/assets/css/style.css')}}">
 
        <!-- SEO Meta Tags -->
-        <title>Tax Law Services | Mutai Advocates LLC - Legal Experts in Nairobi</title>
-        <meta name="description" content="Mutai Advocates LLC offers expert Tax Law services in Nairobi, providing legal advice and representation in tax disputes, compliance, and planning for individuals and businesses.">
+        <title>Tax Law Services | Mutai Advocates LLP - Legal Experts in Nairobi</title>
+        <meta name="description" content="Mutai Advocates LLP offers expert Tax Law services in Nairobi, providing legal advice and representation in tax disputes, compliance, and planning for individuals and businesses.">
         <meta name="keywords" content="Tax Law Kenya, Tax Lawyers Nairobi, Tax Disputes, Tax Compliance, Tax Planning, Kenya Revenue Authority, Tax Advisory Services, Tax Representation Nairobi, Tax Law Services">
-        <meta name="author" content="Mutai Advocates LLC">
+        <meta name="author" content="Mutai Advocates LLP">
 
         <!-- Open Graph Tags (Facebook, LinkedIn, etc.) -->
-        <meta property="og:title" content="Tax Law Services | Mutai Advocates LLC - Legal Experts in Nairobi" />
-        <meta property="og:description" content="Mutai Advocates LLC provides expert Tax Law services in Nairobi, helping clients with tax compliance, planning, and representation in disputes with the Kenya Revenue Authority (KRA)." />
+        <meta property="og:title" content="Tax Law Services | Mutai Advocates LLP - Legal Experts in Nairobi" />
+        <meta property="og:description" content="Mutai Advocates LLP provides expert Tax Law services in Nairobi, helping clients with tax compliance, planning, and representation in disputes with the Kenya Revenue Authority (KRA)." />
         <meta property="og:image" content="https://mutaiadvocatesllp.com/uploads/tax.jpg" />
         <meta property="og:url" content="https://mutaiadvocatesllp.com/area-of-expertise/tax-law" />
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Mutai Advocates LLC" />
+        <meta property="og:site_name" content="Mutai Advocates LLP" />
         <meta property="og:locale" content="en_KE" />
 
         <!-- Twitter Card Tags -->
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Tax Law Services | Mutai Advocates LLC - Legal Experts in Nairobi" />
-        <meta name="twitter:description" content="Expert Tax Law services for individuals and businesses in Nairobi. Get legal assistance in tax planning, compliance, and disputes with KRA from Mutai Advocates LLC." />
+        <meta name="twitter:title" content="Tax Law Services | Mutai Advocates LLP - Legal Experts in Nairobi" />
+        <meta name="twitter:description" content="Expert Tax Law services for individuals and businesses in Nairobi. Get legal assistance in tax planning, compliance, and disputes with KRA from Mutai Advocates LLP." />
         <meta name="twitter:image" content="https://mutaiadvocatesllp.com/uploads/tax.jpg" />
 
 
@@ -328,7 +328,7 @@
                   </div>
                   <div class="footer-btm">
                      <div class="copyright-area">
-                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLC</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
+                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLP</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
                      </div>
                      <ul class="social-area">
                         <li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>

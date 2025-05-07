@@ -16,24 +16,24 @@
 
 
      <!-- SEO Meta Tags -->
-    <title>Carol Chepkoech | Commercial & Corporate Law Expert - Mutai Advocates LLC</title>
-    <meta name="description" content="Carol Chepkoech is a partner at Mutai Advocates LLC specializing in Commercial and Corporate Law, Conveyancing, and Banking & Finance. Discover her legal expertise.">
+    <title>Carol Chepkoech | Commercial & Corporate Law Expert - Mutai Advocates LLP</title>
+    <meta name="description" content="Carol Chepkoech is a partner at Mutai Advocates LLP specializing in Commercial and Corporate Law, Conveyancing, and Banking & Finance. Discover her legal expertise.">
     <meta name="keywords" content="Carol Chepkoech, Mutai Advocates, Commercial Law Kenya, Corporate Law Nairobi, Banking & Finance, Conveyancing Lawyer, Legal Consultancy, Law Firm Kenya">
-    <meta name="author" content="Mutai Advocates LLC">
+    <meta name="author" content="Mutai Advocates LLP">
 
     <!-- Open Graph Tags (Facebook, LinkedIn, etc.) -->
-    <meta property="og:title" content="Carol Chepkoech | Commercial & Corporate Law Expert - Mutai Advocates LLC" />
-    <meta property="og:description" content="Explore Carol Chepkoech's profile at Mutai Advocates LLC, specializing in Commercial and Corporate Law, Conveyancing, and Banking & Finance." />
+    <meta property="og:title" content="Carol Chepkoech | Commercial & Corporate Law Expert - Mutai Advocates LLP" />
+    <meta property="og:description" content="Explore Carol Chepkoech's profile at Mutai Advocates LLP, specializing in Commercial and Corporate Law, Conveyancing, and Banking & Finance." />
     <meta property="og:url" content="https://mutaiadvocatesllp.com/our-people/carol-chepkoech" />
     <meta property="og:image" content="https://mutaiadvocatesllp.com/uploads/DSC_0065.jpg" />
     <meta property="og:type" content="profile" />
-    <meta property="og:site_name" content="Mutai Advocates LLC" />
+    <meta property="og:site_name" content="Mutai Advocates LLP" />
     <meta property="og:locale" content="en_KE" />
 
     <!-- Twitter Card Tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Carol Chepkoech | Commercial & Corporate Law Expert - Mutai Advocates LLC" />
-    <meta name="twitter:description" content="Learn more about Carol Chepkoech, a partner at Mutai Advocates LLC specializing in Corporate and Commercial Law." />
+    <meta name="twitter:title" content="Carol Chepkoech | Commercial & Corporate Law Expert - Mutai Advocates LLP" />
+    <meta name="twitter:description" content="Learn more about Carol Chepkoech, a partner at Mutai Advocates LLP specializing in Corporate and Commercial Law." />
     <meta name="twitter:image" content="https://mutaiadvocatesllp.com/uploads/DSC_0065.jpg" />
 
         <link rel="apple-touch-icon" sizes="180x180" href="{{asset('favicon/apple-touch-icon.png')}}">
@@ -328,7 +328,7 @@
                   </div>
                   <div class="footer-btm">
                      <div class="copyright-area">
-                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLC</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
+                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLP</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
                      </div>
                      <ul class="social-area">
                         <li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>

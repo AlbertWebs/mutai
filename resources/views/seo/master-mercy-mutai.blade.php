@@ -16,23 +16,23 @@
 
 
         <!-- SEO Meta Tags -->
-        <title>Mercy Mutai | Tax & Banking Law Specialist - Mutai Advocates LLC</title>
-        <meta name="description" content="Mercy Mutai is a partner at Mutai Advocates LLC specializing in tax law, banking & finance, and dispute resolution. Explore her extensive legal expertise.">
+        <title>Mercy Mutai | Tax & Banking Law Specialist - Mutai Advocates LLP</title>
+        <meta name="description" content="Mercy Mutai is a partner at Mutai Advocates LLP specializing in tax law, banking & finance, and dispute resolution. Explore her extensive legal expertise.">
         <meta name="keywords" content="Mercy Mutai, Mutai Advocates, Tax Law Kenya, Banking & Finance, Legal Expert Nairobi, Dispute Resolution, Litigation Lawyer, Legal Consultancy, Law Firm Kenya">
-        <meta name="author" content="Mutai Advocates LLC">
+        <meta name="author" content="Mutai Advocates LLP">
 
         <!-- Open Graph Tags (Facebook, LinkedIn, etc.) -->
-        <meta property="og:title" content="Mercy Mutai | Tax & Banking Law Specialist - Mutai Advocates LLC" />
-        <meta property="og:description" content="Discover Mercy Mutai's profile at Mutai Advocates LLC, where she provides expert legal services in tax law, banking & finance, and dispute resolution." />
+        <meta property="og:title" content="Mercy Mutai | Tax & Banking Law Specialist - Mutai Advocates LLP" />
+        <meta property="og:description" content="Discover Mercy Mutai's profile at Mutai Advocates LLP, where she provides expert legal services in tax law, banking & finance, and dispute resolution." />
         <meta property="og:url" content="https://mutaiadvocatesllp.com/our-people/mercy-mutai" />
         <meta property="og:type" content="profile" />
-        <meta property="og:site_name" content="Mutai Advocates LLC" />
+        <meta property="og:site_name" content="Mutai Advocates LLP" />
         <meta property="og:locale" content="en_KE" />
 
         <!-- Twitter Card Tags -->
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Mercy Mutai | Tax & Banking Law Specialist - Mutai Advocates LLC" />
-        <meta name="twitter:description" content="Explore Mercy Mutai's profile at Mutai Advocates LLC, where she specializes in tax law, banking & finance, and litigation." />
+        <meta name="twitter:title" content="Mercy Mutai | Tax & Banking Law Specialist - Mutai Advocates LLP" />
+        <meta name="twitter:description" content="Explore Mercy Mutai's profile at Mutai Advocates LLP, where she specializes in tax law, banking & finance, and litigation." />
 
 
         <link rel="apple-touch-icon" sizes="180x180" href="{{asset('favicon/apple-touch-icon.png')}}">
@@ -327,7 +327,7 @@
                   </div>
                   <div class="footer-btm">
                      <div class="copyright-area">
-                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLC</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
+                        <p>Copyright {{date('Y')}} <a href="#">Mutai Advocates LLP</a> | Powered By <a href="https://www.designekta.com/">Designekta Studios</a></p>
                      </div>
                      <ul class="social-area">
                         <li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>
