@@ -651,10 +651,10 @@ body.tt-magic-cursor #magic-cursor {
 }
 
 .magnetic-wrap {
-    position: relative;
+    /* position: relative;
     display: flex;
     justify-content: center;
-    align-items: center
+    align-items: center */
 }
 
 #ball.magnetic-active {
@@ -18073,6 +18073,6 @@ footer .footer-btm .social-area li a:hover i {
 
 .people-img img{
     width:100% !important;
-    max-height:375px !important;
+    max-height:395px !important;
     object-fit: cover;
 }

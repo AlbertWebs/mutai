@@ -53,9 +53,9 @@
       <div class="header-topbar-area">
         <div class="topbar-area style-2 two">
            <ul class="topbar-left">
-              <li><a href="career.html">Careers</a></li>
-              <li><a href="contact.html">Join Us</a></li>
-              <li><a href="blog-standard.html">Insight & Events</a></li>
+              <li><a href="career.html">Expert Legal Solutions in Commercial, Corporate, Banking & Finance, and Technology Law</a></li>
+              {{-- <li><a href="contact.html">Join Us</a></li>
+              <li><a href="blog-standard.html">Insight & Events</a></li> --}}
            </ul>
            <ul class="topbar-right">
               <li>Mon-Fri (9:00 am-7.00 pm)</li>
@@ -96,12 +96,34 @@
                  </div>
                  <ul class="menu-list">
                     <li class="menu-item-has-children active">
-                       <a href="#home" class="drop-down">Home</a><i class="bi bi-plus dropdown-icon"></i>
+                       <a href="{{url('/')}}" class="drop-down">Home</a><i class="bi bi-plus dropdown-icon"></i>
 
                     </li>
-                    <li><a href="#about">About Us</a></li>
-                    <li><a href="#team">Our Team</a></li>
-                    <li><a href="#areas">Areas Of Expertise</a></li>
+                    <li><a href="{{url('about-us')}}">About Us</a></li>
+                    {{-- <li><a href="#team">Our Team</a></li> --}}
+                    {{--  --}}
+                    <li class="menu-item-has-children">
+                        <a href="#" class="drop-down">Our Team</a><i class="bi bi-plus dropdown-icon"></i>
+                        <ul class="sub-menu">
+                            <li><a href="{{url('/')}}/our-people/carol-chepkoech">Carol Chepkoech</a></li>
+                            <li><a href="{{url('/')}}/our-people/mercy-mutai">Mery Mutai</a></li>
+
+                        </ul>
+                    </li>
+                    {{--  --}}
+                    {{-- <li><a href="{{url('/')}}/area-of-expertise">Areas Of Expertise</a></li> --}}
+
+                    <li class="menu-item-has-children">
+                        <a href="#" class="drop-down">Areas Of Expertise</a><i class="bi bi-plus dropdown-icon"></i>
+                        <ul class="sub-menu">
+                            <li><a href="{{url('/')}}/area-of-expertise/commercial-and-corporate-law">Commercial and Corporate Law</a></li>
+                            <li><a href="{{url('/')}}/area-of-expertise/conveyancing-and-banking-and-finance">Conveyancing and Banking & Finance</a></li>
+                            <li><a href="{{url('/')}}/area-of-expertise/litigation-and-dispute-resolution">Litigation & Dispute Resolution</a></li>
+                            <li><a href="{{url('/')}}/area-of-expertise/tax-law">Tax Law</a></li>
+                            <li><a href="{{url('/')}}/area-of-expertise/technology-law-and-intellectual-property">Technology Law and Intellectual Property</a></li>
+
+                        </ul>
+                    </li>
 
                     <li><a href="#contact">Contact Us</a></li>
                  </ul>

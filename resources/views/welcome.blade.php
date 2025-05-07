@@ -167,6 +167,340 @@
        </div>
     </div>
  </div>
+ {{--  --}}
+ <div class="blog-section4 mb-130 mt-130">
+    <div class="container-fluid one pl--95">
+       <div class="row g-lg-4 gy-5">
+          <div class="col-lg-5">
+             <div class="section-title1 two mb-50">
+                <span>Areas Of Expertise</span>
+                <h2>At Mutai Advocates, our expertise encompasses a wide spectrum of legal services, including Commercial and Corporate Law, Conveyancing and Banking & Finance, Litigation & Dispute Resolution, Tax Law, Technology Law, and Intellectual Property. We are dedicated to providing strategic and effective legal solutions tailored to our clients' needs.</h2>
+                <a class="primary-btn1 btn-hover" href="{{url('/')}}/area-of-expetiese">
+                   Explore More
+                   <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1865 1.06237L0 11.2484L0.751627 12L10.9376 1.81347V8.85645H12V0H3.14355V1.06237H10.1865Z"></path>
+                   </svg>
+                   <span></span>
+                </a>
+             </div>
+          </div>
+          <div class="col-lg-7">
+             <div class="row g-4">
+                <div class="col-md-4">
+                   <div class="blog-card4">
+                      <div class="blog-flip-box-layer blog-card-front">
+                         <div class="blog-img">
+                            <img src="{{asset('uploads/cormercial.jpg')}}" alt>
+                         </div>
+                         <div class="blog-content">
+                            <div class="blog-content">
+                               <ul class="tags">
+                                  <li>
+                                     <a href="blog-standard.html">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                           <path d="M7.58455 3.09152C7.58455 3.4429 7.72414 3.7799 7.9726 4.02837C8.22107 4.27684 8.55807 4.41643 8.90946 4.41643C9.26085 4.41643 9.59785 4.27684 9.84632 4.02837C10.0948 3.7799 10.2344 3.4429 10.2344 3.09152C10.2344 2.74013 10.0948 2.40313 9.84632 2.15466C9.59785 1.90619 9.26085 1.7666 8.90946 1.7666C8.55807 1.7666 8.22107 1.90619 7.9726 2.15466C7.72414 2.40313 7.58455 2.74013 7.58455 3.09152ZM8.46782 3.09152C8.46782 2.97439 8.51435 2.86205 8.59718 2.77923C8.68 2.69641 8.79233 2.64988 8.90946 2.64988C9.02659 2.64988 9.13892 2.69641 9.22175 2.77923C9.30457 2.86205 9.3511 2.97439 9.3511 3.09152C9.3511 3.20865 9.30457 3.32098 9.22175 3.4038C9.13892 3.48662 9.02659 3.53315 8.90946 3.53315C8.79233 3.53315 8.68 3.48662 8.59718 3.4038C8.51435 3.32098 8.46782 3.20865 8.46782 3.09152Z"></path>
+                                           <path d="M11.1167 0H7.06602C6.83178 5.00265e-05 6.60715 0.093142 6.44154 0.2588L0.258612 6.44173C0.0930223 6.60737 0 6.832 0 7.06621C0 7.30042 0.0930223 7.52505 0.258612 7.69068L4.30932 11.7414C4.47495 11.907 4.69958 12 4.93379 12C5.168 12 5.39263 11.907 5.55827 11.7414L11.7412 5.55846C11.9069 5.39285 11.9999 5.16822 12 4.93398V0.883276C12 0.649017 11.9069 0.424352 11.7413 0.258706C11.5756 0.0930591 11.351 0 11.1167 0ZM11.1167 4.93398L4.93379 11.1169L0.883087 7.06621L7.06602 0.883276H11.1167V4.93398Z"></path>
+                                        </svg>
+                                        Consulting
+                                     </a>
+                                  </li>
+
+                               </ul>
+                               <div class="title-and-btn">
+                                  <h4><a href="{{url('/')}}/area-of-expertise/commercial-and-corporate-law">Commercial and Corporate Law</a></h4>
+                                  <a class="explore-btn" href="{{url('/')}}/area-of-expertise/commercial-and-corporate-law">
+                                     Read More
+                                     <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1865 1.06237L0 11.2484L0.751627 12L10.9376 1.81347V8.85645H12V0H3.14355V1.06237H10.1865Z"></path>
+                                     </svg>
+                                  </a>
+                               </div>
+                            </div>
+                         </div>
+                      </div>
+                      <div class="blog-flip-box-layer blog-card-back">
+                         <div class="blog-content">
+                            <div class="blog-content">
+                               <ul class="tags">
+                                  <li>
+                                     <a href="blog-standard.html">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                           <path d="M7.58455 3.09152C7.58455 3.4429 7.72414 3.7799 7.9726 4.02837C8.22107 4.27684 8.55807 4.41643 8.90946 4.41643C9.26085 4.41643 9.59785 4.27684 9.84632 4.02837C10.0948 3.7799 10.2344 3.4429 10.2344 3.09152C10.2344 2.74013 10.0948 2.40313 9.84632 2.15466C9.59785 1.90619 9.26085 1.7666 8.90946 1.7666C8.55807 1.7666 8.22107 1.90619 7.9726 2.15466C7.72414 2.40313 7.58455 2.74013 7.58455 3.09152ZM8.46782 3.09152C8.46782 2.97439 8.51435 2.86205 8.59718 2.77923C8.68 2.69641 8.79233 2.64988 8.90946 2.64988C9.02659 2.64988 9.13892 2.69641 9.22175 2.77923C9.30457 2.86205 9.3511 2.97439 9.3511 3.09152C9.3511 3.20865 9.30457 3.32098 9.22175 3.4038C9.13892 3.48662 9.02659 3.53315 8.90946 3.53315C8.79233 3.53315 8.68 3.48662 8.59718 3.4038C8.51435 3.32098 8.46782 3.20865 8.46782 3.09152Z"></path>
+                                           <path d="M11.1167 0H7.06602C6.83178 5.00265e-05 6.60715 0.093142 6.44154 0.2588L0.258612 6.44173C0.0930223 6.60737 0 6.832 0 7.06621C0 7.30042 0.0930223 7.52505 0.258612 7.69068L4.30932 11.7414C4.47495 11.907 4.69958 12 4.93379 12C5.168 12 5.39263 11.907 5.55827 11.7414L11.7412 5.55846C11.9069 5.39285 11.9999 5.16822 12 4.93398V0.883276C12 0.649017 11.9069 0.424352 11.7413 0.258706C11.5756 0.0930591 11.351 0 11.1167 0ZM11.1167 4.93398L4.93379 11.1169L0.883087 7.06621L7.06602 0.883276H11.1167V4.93398Z"></path>
+                                        </svg>
+                                        Consulting
+                                     </a>
+                                  </li>
+
+                               </ul>
+                               <div class="title-and-btn">
+                                  <h4><a href="{{url('/')}}/area-of-expertise/commercial-and-corporate-law">Commercial and Corporate Law</a></h4>
+                                  <a class="explore-btn" href="{{url('/')}}/area-of-expertise/commercial-and-corporate-law">
+                                     Read More
+                                     <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1865 1.06237L0 11.2484L0.751627 12L10.9376 1.81347V8.85645H12V0H3.14355V1.06237H10.1865Z"></path>
+                                     </svg>
+                                  </a>
+                               </div>
+                            </div>
+                         </div>
+                      </div>
+                   </div>
+                </div>
+                <div class="col-md-4">
+                   <div class="blog-card4">
+                      <div class="blog-flip-box-layer blog-card-front">
+                         <div class="blog-img">
+                            <img src="{{asset('uploads/conveyancing.jpg')}}" alt>
+                         </div>
+                         <div class="blog-content">
+                            <div class="blog-content">
+                               <ul class="tags">
+                                  <li>
+                                     <a href="blog-standard.html">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                           <path d="M7.58455 3.09152C7.58455 3.4429 7.72414 3.7799 7.9726 4.02837C8.22107 4.27684 8.55807 4.41643 8.90946 4.41643C9.26085 4.41643 9.59785 4.27684 9.84632 4.02837C10.0948 3.7799 10.2344 3.4429 10.2344 3.09152C10.2344 2.74013 10.0948 2.40313 9.84632 2.15466C9.59785 1.90619 9.26085 1.7666 8.90946 1.7666C8.55807 1.7666 8.22107 1.90619 7.9726 2.15466C7.72414 2.40313 7.58455 2.74013 7.58455 3.09152ZM8.46782 3.09152C8.46782 2.97439 8.51435 2.86205 8.59718 2.77923C8.68 2.69641 8.79233 2.64988 8.90946 2.64988C9.02659 2.64988 9.13892 2.69641 9.22175 2.77923C9.30457 2.86205 9.3511 2.97439 9.3511 3.09152C9.3511 3.20865 9.30457 3.32098 9.22175 3.4038C9.13892 3.48662 9.02659 3.53315 8.90946 3.53315C8.79233 3.53315 8.68 3.48662 8.59718 3.4038C8.51435 3.32098 8.46782 3.20865 8.46782 3.09152Z"></path>
+                                           <path d="M11.1167 0H7.06602C6.83178 5.00265e-05 6.60715 0.093142 6.44154 0.2588L0.258612 6.44173C0.0930223 6.60737 0 6.832 0 7.06621C0 7.30042 0.0930223 7.52505 0.258612 7.69068L4.30932 11.7414C4.47495 11.907 4.69958 12 4.93379 12C5.168 12 5.39263 11.907 5.55827 11.7414L11.7412 5.55846C11.9069 5.39285 11.9999 5.16822 12 4.93398V0.883276C12 0.649017 11.9069 0.424352 11.7413 0.258706C11.5756 0.0930591 11.351 0 11.1167 0ZM11.1167 4.93398L4.93379 11.1169L0.883087 7.06621L7.06602 0.883276H11.1167V4.93398Z"></path>
+                                        </svg>
+                                        Consulting
+                                     </a>
+                                  </li>
+
+                               </ul>
+                               <div class="title-and-btn">
+                                  <h4><a href="{{url('/')}}/area-of-expertise/commercial-and-corporate-law">Conveyancing and Banking & Finance</a></h4>
+                                  <a class="explore-btn" href="{{url('/')}}/area-of-expertise/commercial-and-corporate-law">
+                                     Read More
+                                     <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1865 1.06237L0 11.2484L0.751627 12L10.9376 1.81347V8.85645H12V0H3.14355V1.06237H10.1865Z"></path>
+                                     </svg>
+                                  </a>
+                               </div>
+                            </div>
+                         </div>
+                      </div>
+                      <div class="blog-flip-box-layer blog-card-back">
+                         <div class="blog-content">
+                            <div class="blog-content">
+                               <ul class="tags">
+                                  <li>
+                                     <a href="blog-standard.html">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                           <path d="M7.58455 3.09152C7.58455 3.4429 7.72414 3.7799 7.9726 4.02837C8.22107 4.27684 8.55807 4.41643 8.90946 4.41643C9.26085 4.41643 9.59785 4.27684 9.84632 4.02837C10.0948 3.7799 10.2344 3.4429 10.2344 3.09152C10.2344 2.74013 10.0948 2.40313 9.84632 2.15466C9.59785 1.90619 9.26085 1.7666 8.90946 1.7666C8.55807 1.7666 8.22107 1.90619 7.9726 2.15466C7.72414 2.40313 7.58455 2.74013 7.58455 3.09152ZM8.46782 3.09152C8.46782 2.97439 8.51435 2.86205 8.59718 2.77923C8.68 2.69641 8.79233 2.64988 8.90946 2.64988C9.02659 2.64988 9.13892 2.69641 9.22175 2.77923C9.30457 2.86205 9.3511 2.97439 9.3511 3.09152C9.3511 3.20865 9.30457 3.32098 9.22175 3.4038C9.13892 3.48662 9.02659 3.53315 8.90946 3.53315C8.79233 3.53315 8.68 3.48662 8.59718 3.4038C8.51435 3.32098 8.46782 3.20865 8.46782 3.09152Z"></path>
+                                           <path d="M11.1167 0H7.06602C6.83178 5.00265e-05 6.60715 0.093142 6.44154 0.2588L0.258612 6.44173C0.0930223 6.60737 0 6.832 0 7.06621C0 7.30042 0.0930223 7.52505 0.258612 7.69068L4.30932 11.7414C4.47495 11.907 4.69958 12 4.93379 12C5.168 12 5.39263 11.907 5.55827 11.7414L11.7412 5.55846C11.9069 5.39285 11.9999 5.16822 12 4.93398V0.883276C12 0.649017 11.9069 0.424352 11.7413 0.258706C11.5756 0.0930591 11.351 0 11.1167 0ZM11.1167 4.93398L4.93379 11.1169L0.883087 7.06621L7.06602 0.883276H11.1167V4.93398Z"></path>
+                                        </svg>
+                                        Consulting
+                                     </a>
+                                  </li>
+
+                               </ul>
+                               <div class="title-and-btn">
+                                  <h4><a href="{{url('/')}}/area-of-expertise/conveyancing-and-banking-and-finance">Conveyancing and Banking & Finance</a></h4>
+                                  <a class="explore-btn" href="{{url('/')}}/area-of-expertise/conveyancing-and-banking-and-finance">
+                                     Read More
+                                     <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1865 1.06237L0 11.2484L0.751627 12L10.9376 1.81347V8.85645H12V0H3.14355V1.06237H10.1865Z"></path>
+                                     </svg>
+                                  </a>
+                               </div>
+                            </div>
+                         </div>
+                      </div>
+                   </div>
+                </div>
+                <div class="col-md-4">
+                   <div class="blog-card4">
+                      <div class="blog-flip-box-layer blog-card-front">
+                         <div class="blog-img">
+                            <img src="{{asset('uploads/lit.jpg')}}" alt>
+                         </div>
+                         <div class="blog-content">
+                            <div class="blog-content">
+                               <ul class="tags">
+                                  <li>
+                                     <a href="blog-standard.html">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                           <path d="M7.58455 3.09152C7.58455 3.4429 7.72414 3.7799 7.9726 4.02837C8.22107 4.27684 8.55807 4.41643 8.90946 4.41643C9.26085 4.41643 9.59785 4.27684 9.84632 4.02837C10.0948 3.7799 10.2344 3.4429 10.2344 3.09152C10.2344 2.74013 10.0948 2.40313 9.84632 2.15466C9.59785 1.90619 9.26085 1.7666 8.90946 1.7666C8.55807 1.7666 8.22107 1.90619 7.9726 2.15466C7.72414 2.40313 7.58455 2.74013 7.58455 3.09152ZM8.46782 3.09152C8.46782 2.97439 8.51435 2.86205 8.59718 2.77923C8.68 2.69641 8.79233 2.64988 8.90946 2.64988C9.02659 2.64988 9.13892 2.69641 9.22175 2.77923C9.30457 2.86205 9.3511 2.97439 9.3511 3.09152C9.3511 3.20865 9.30457 3.32098 9.22175 3.4038C9.13892 3.48662 9.02659 3.53315 8.90946 3.53315C8.79233 3.53315 8.68 3.48662 8.59718 3.4038C8.51435 3.32098 8.46782 3.20865 8.46782 3.09152Z"></path>
+                                           <path d="M11.1167 0H7.06602C6.83178 5.00265e-05 6.60715 0.093142 6.44154 0.2588L0.258612 6.44173C0.0930223 6.60737 0 6.832 0 7.06621C0 7.30042 0.0930223 7.52505 0.258612 7.69068L4.30932 11.7414C4.47495 11.907 4.69958 12 4.93379 12C5.168 12 5.39263 11.907 5.55827 11.7414L11.7412 5.55846C11.9069 5.39285 11.9999 5.16822 12 4.93398V0.883276C12 0.649017 11.9069 0.424352 11.7413 0.258706C11.5756 0.0930591 11.351 0 11.1167 0ZM11.1167 4.93398L4.93379 11.1169L0.883087 7.06621L7.06602 0.883276H11.1167V4.93398Z"></path>
+                                        </svg>
+                                        Consulting
+                                     </a>
+                                  </li>
+
+                               </ul>
+                               <div class="title-and-btn">
+                                  <h4><a href="{{url('/')}}/area-of-expertise/litigation-and-dispute-resolution">Litigation & Dispute Resolution</a></h4>
+                                  <a class="explore-btn" href="{{url('/')}}/area-of-expertise/litigation-and-dispute-resolution">
+                                     Read More
+                                     <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1865 1.06237L0 11.2484L0.751627 12L10.9376 1.81347V8.85645H12V0H3.14355V1.06237H10.1865Z"></path>
+                                     </svg>
+                                  </a>
+                               </div>
+                            </div>
+                         </div>
+                      </div>
+                      <div class="blog-flip-box-layer blog-card-back">
+                         <div class="blog-content">
+                            <div class="blog-content">
+                               <ul class="tags">
+                                  <li>
+                                     <a href="{{url('/')}}/area-of-expertise/litigation-and-dispute-resolution">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                           <path d="M7.58455 3.09152C7.58455 3.4429 7.72414 3.7799 7.9726 4.02837C8.22107 4.27684 8.55807 4.41643 8.90946 4.41643C9.26085 4.41643 9.59785 4.27684 9.84632 4.02837C10.0948 3.7799 10.2344 3.4429 10.2344 3.09152C10.2344 2.74013 10.0948 2.40313 9.84632 2.15466C9.59785 1.90619 9.26085 1.7666 8.90946 1.7666C8.55807 1.7666 8.22107 1.90619 7.9726 2.15466C7.72414 2.40313 7.58455 2.74013 7.58455 3.09152ZM8.46782 3.09152C8.46782 2.97439 8.51435 2.86205 8.59718 2.77923C8.68 2.69641 8.79233 2.64988 8.90946 2.64988C9.02659 2.64988 9.13892 2.69641 9.22175 2.77923C9.30457 2.86205 9.3511 2.97439 9.3511 3.09152C9.3511 3.20865 9.30457 3.32098 9.22175 3.4038C9.13892 3.48662 9.02659 3.53315 8.90946 3.53315C8.79233 3.53315 8.68 3.48662 8.59718 3.4038C8.51435 3.32098 8.46782 3.20865 8.46782 3.09152Z"></path>
+                                           <path d="M11.1167 0H7.06602C6.83178 5.00265e-05 6.60715 0.093142 6.44154 0.2588L0.258612 6.44173C0.0930223 6.60737 0 6.832 0 7.06621C0 7.30042 0.0930223 7.52505 0.258612 7.69068L4.30932 11.7414C4.47495 11.907 4.69958 12 4.93379 12C5.168 12 5.39263 11.907 5.55827 11.7414L11.7412 5.55846C11.9069 5.39285 11.9999 5.16822 12 4.93398V0.883276C12 0.649017 11.9069 0.424352 11.7413 0.258706C11.5756 0.0930591 11.351 0 11.1167 0ZM11.1167 4.93398L4.93379 11.1169L0.883087 7.06621L7.06602 0.883276H11.1167V4.93398Z"></path>
+                                        </svg>
+                                        Consulting
+                                     </a>
+                                  </li>
+
+                               </ul>
+                               <div class="title-and-btn">
+                                  <h4><a href="{{url('/')}}/area-of-expertise/litigation-and-dispute-resolution">Litigation & Dispute Resolution</a></h4>
+                                  <a class="explore-btn" href="{{url('/')}}/area-of-expertise/litigation-and-dispute-resolution">
+                                     Read More
+                                     <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1865 1.06237L0 11.2484L0.751627 12L10.9376 1.81347V8.85645H12V0H3.14355V1.06237H10.1865Z"></path>
+                                     </svg>
+                                  </a>
+                               </div>
+                            </div>
+                         </div>
+                      </div>
+                   </div>
+                </div>
+                <div class="col-md-4">
+                   <div class="blog-card4">
+                      <div class="blog-flip-box-layer blog-card-front">
+                         <div class="blog-img">
+                            <img src="{{asset('uploads/tax.jpg')}}" alt>
+                         </div>
+                         <div class="blog-content">
+                            <div class="blog-content">
+                               <ul class="tags">
+                                  <li>
+                                     <a href="{{url('/')}}/area-of-expertise/tax-law">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                           <path d="M7.58455 3.09152C7.58455 3.4429 7.72414 3.7799 7.9726 4.02837C8.22107 4.27684 8.55807 4.41643 8.90946 4.41643C9.26085 4.41643 9.59785 4.27684 9.84632 4.02837C10.0948 3.7799 10.2344 3.4429 10.2344 3.09152C10.2344 2.74013 10.0948 2.40313 9.84632 2.15466C9.59785 1.90619 9.26085 1.7666 8.90946 1.7666C8.55807 1.7666 8.22107 1.90619 7.9726 2.15466C7.72414 2.40313 7.58455 2.74013 7.58455 3.09152ZM8.46782 3.09152C8.46782 2.97439 8.51435 2.86205 8.59718 2.77923C8.68 2.69641 8.79233 2.64988 8.90946 2.64988C9.02659 2.64988 9.13892 2.69641 9.22175 2.77923C9.30457 2.86205 9.3511 2.97439 9.3511 3.09152C9.3511 3.20865 9.30457 3.32098 9.22175 3.4038C9.13892 3.48662 9.02659 3.53315 8.90946 3.53315C8.79233 3.53315 8.68 3.48662 8.59718 3.4038C8.51435 3.32098 8.46782 3.20865 8.46782 3.09152Z"></path>
+                                           <path d="M11.1167 0H7.06602C6.83178 5.00265e-05 6.60715 0.093142 6.44154 0.2588L0.258612 6.44173C0.0930223 6.60737 0 6.832 0 7.06621C0 7.30042 0.0930223 7.52505 0.258612 7.69068L4.30932 11.7414C4.47495 11.907 4.69958 12 4.93379 12C5.168 12 5.39263 11.907 5.55827 11.7414L11.7412 5.55846C11.9069 5.39285 11.9999 5.16822 12 4.93398V0.883276C12 0.649017 11.9069 0.424352 11.7413 0.258706C11.5756 0.0930591 11.351 0 11.1167 0ZM11.1167 4.93398L4.93379 11.1169L0.883087 7.06621L7.06602 0.883276H11.1167V4.93398Z"></path>
+                                        </svg>
+                                        Consulting
+                                     </a>
+                                  </li>
+
+                               </ul>
+                               <div class="title-and-btn">
+                                  <h4><a href="{{url('/')}}/area-of-expertise/tax-law">Tax Law</a></h4>
+                                  <a class="explore-btn" href="{{url('/')}}/area-of-expertise/tax-law">
+                                     Read More
+                                     <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1865 1.06237L0 11.2484L0.751627 12L10.9376 1.81347V8.85645H12V0H3.14355V1.06237H10.1865Z"></path>
+                                     </svg>
+                                  </a>
+                               </div>
+                            </div>
+                         </div>
+                      </div>
+                      <div class="blog-flip-box-layer blog-card-back">
+                         <div class="blog-content">
+                            <div class="blog-content">
+                               <div class="blog-content">
+                                  <ul class="tags">
+                                     <li>
+                                        <a href="{{url('/')}}/area-of-expertise/tax-law">
+                                           <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                              <path d="M7.58455 3.09152C7.58455 3.4429 7.72414 3.7799 7.9726 4.02837C8.22107 4.27684 8.55807 4.41643 8.90946 4.41643C9.26085 4.41643 9.59785 4.27684 9.84632 4.02837C10.0948 3.7799 10.2344 3.4429 10.2344 3.09152C10.2344 2.74013 10.0948 2.40313 9.84632 2.15466C9.59785 1.90619 9.26085 1.7666 8.90946 1.7666C8.55807 1.7666 8.22107 1.90619 7.9726 2.15466C7.72414 2.40313 7.58455 2.74013 7.58455 3.09152ZM8.46782 3.09152C8.46782 2.97439 8.51435 2.86205 8.59718 2.77923C8.68 2.69641 8.79233 2.64988 8.90946 2.64988C9.02659 2.64988 9.13892 2.69641 9.22175 2.77923C9.30457 2.86205 9.3511 2.97439 9.3511 3.09152C9.3511 3.20865 9.30457 3.32098 9.22175 3.4038C9.13892 3.48662 9.02659 3.53315 8.90946 3.53315C8.79233 3.53315 8.68 3.48662 8.59718 3.4038C8.51435 3.32098 8.46782 3.20865 8.46782 3.09152Z"></path>
+                                              <path d="M11.1167 0H7.06602C6.83178 5.00265e-05 6.60715 0.093142 6.44154 0.2588L0.258612 6.44173C0.0930223 6.60737 0 6.832 0 7.06621C0 7.30042 0.0930223 7.52505 0.258612 7.69068L4.30932 11.7414C4.47495 11.907 4.69958 12 4.93379 12C5.168 12 5.39263 11.907 5.55827 11.7414L11.7412 5.55846C11.9069 5.39285 11.9999 5.16822 12 4.93398V0.883276C12 0.649017 11.9069 0.424352 11.7413 0.258706C11.5756 0.0930591 11.351 0 11.1167 0ZM11.1167 4.93398L4.93379 11.1169L0.883087 7.06621L7.06602 0.883276H11.1167V4.93398Z"></path>
+                                           </svg>
+                                           Consulting
+                                        </a>
+                                     </li>
+
+                                  </ul>
+                                  <div class="title-and-btn">
+                                     <h4><a href="{{url('/')}}/area-of-expertise/tax-law">Tax Law</a></h4>
+                                     <a class="explore-btn" href="{{url('/')}}/area-of-expertise/commercial-and-corporate-law">
+                                        Read More
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                           <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1865 1.06237L0 11.2484L0.751627 12L10.9376 1.81347V8.85645H12V0H3.14355V1.06237H10.1865Z"></path>
+                                        </svg>
+                                     </a>
+                                  </div>
+                               </div>
+                            </div>
+                         </div>
+                      </div>
+                   </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="blog-card4">
+                       <div class="blog-flip-box-layer blog-card-front">
+                          <div class="blog-img">
+                             <img src="{{asset('uploads/interlectual.jpg')}}" alt>
+                          </div>
+                          <div class="blog-content">
+                             <div class="blog-content">
+                                <ul class="tags">
+                                   <li>
+                                      <a href="{{url('/')}}/area-of-expertise/technology-law-and-intellectual-property">
+                                         <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                            <path d="M7.58455 3.09152C7.58455 3.4429 7.72414 3.7799 7.9726 4.02837C8.22107 4.27684 8.55807 4.41643 8.90946 4.41643C9.26085 4.41643 9.59785 4.27684 9.84632 4.02837C10.0948 3.7799 10.2344 3.4429 10.2344 3.09152C10.2344 2.74013 10.0948 2.40313 9.84632 2.15466C9.59785 1.90619 9.26085 1.7666 8.90946 1.7666C8.55807 1.7666 8.22107 1.90619 7.9726 2.15466C7.72414 2.40313 7.58455 2.74013 7.58455 3.09152ZM8.46782 3.09152C8.46782 2.97439 8.51435 2.86205 8.59718 2.77923C8.68 2.69641 8.79233 2.64988 8.90946 2.64988C9.02659 2.64988 9.13892 2.69641 9.22175 2.77923C9.30457 2.86205 9.3511 2.97439 9.3511 3.09152C9.3511 3.20865 9.30457 3.32098 9.22175 3.4038C9.13892 3.48662 9.02659 3.53315 8.90946 3.53315C8.79233 3.53315 8.68 3.48662 8.59718 3.4038C8.51435 3.32098 8.46782 3.20865 8.46782 3.09152Z"></path>
+                                            <path d="M11.1167 0H7.06602C6.83178 5.00265e-05 6.60715 0.093142 6.44154 0.2588L0.258612 6.44173C0.0930223 6.60737 0 6.832 0 7.06621C0 7.30042 0.0930223 7.52505 0.258612 7.69068L4.30932 11.7414C4.47495 11.907 4.69958 12 4.93379 12C5.168 12 5.39263 11.907 5.55827 11.7414L11.7412 5.55846C11.9069 5.39285 11.9999 5.16822 12 4.93398V0.883276C12 0.649017 11.9069 0.424352 11.7413 0.258706C11.5756 0.0930591 11.351 0 11.1167 0ZM11.1167 4.93398L4.93379 11.1169L0.883087 7.06621L7.06602 0.883276H11.1167V4.93398Z"></path>
+                                         </svg>
+                                         Consulting
+                                      </a>
+                                   </li>
+
+                                </ul>
+                                <div class="title-and-btn">
+                                   <h4><a href="{{url('/')}}/area-of-expertise/technology-law-and-intellectual-property">Technology Law and Intellectual Property</a></h4>
+                                   <a class="explore-btn" href="{{url('/')}}/area-of-expertise/technology-law-and-intellectual-property">
+                                      Read More
+                                      <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                         <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1865 1.06237L0 11.2484L0.751627 12L10.9376 1.81347V8.85645H12V0H3.14355V1.06237H10.1865Z"></path>
+                                      </svg>
+                                   </a>
+                                </div>
+                             </div>
+                          </div>
+                       </div>
+                       <div class="blog-flip-box-layer blog-card-back">
+                          <div class="blog-content">
+                             <div class="blog-content">
+                                <div class="blog-content">
+                                   <ul class="tags">
+                                      <li>
+                                         <a href="{{url('/')}}/area-of-expertise/technology-law-and-intellectual-property">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                               <path d="M7.58455 3.09152C7.58455 3.4429 7.72414 3.7799 7.9726 4.02837C8.22107 4.27684 8.55807 4.41643 8.90946 4.41643C9.26085 4.41643 9.59785 4.27684 9.84632 4.02837C10.0948 3.7799 10.2344 3.4429 10.2344 3.09152C10.2344 2.74013 10.0948 2.40313 9.84632 2.15466C9.59785 1.90619 9.26085 1.7666 8.90946 1.7666C8.55807 1.7666 8.22107 1.90619 7.9726 2.15466C7.72414 2.40313 7.58455 2.74013 7.58455 3.09152ZM8.46782 3.09152C8.46782 2.97439 8.51435 2.86205 8.59718 2.77923C8.68 2.69641 8.79233 2.64988 8.90946 2.64988C9.02659 2.64988 9.13892 2.69641 9.22175 2.77923C9.30457 2.86205 9.3511 2.97439 9.3511 3.09152C9.3511 3.20865 9.30457 3.32098 9.22175 3.4038C9.13892 3.48662 9.02659 3.53315 8.90946 3.53315C8.79233 3.53315 8.68 3.48662 8.59718 3.4038C8.51435 3.32098 8.46782 3.20865 8.46782 3.09152Z"></path>
+                                               <path d="M11.1167 0H7.06602C6.83178 5.00265e-05 6.60715 0.093142 6.44154 0.2588L0.258612 6.44173C0.0930223 6.60737 0 6.832 0 7.06621C0 7.30042 0.0930223 7.52505 0.258612 7.69068L4.30932 11.7414C4.47495 11.907 4.69958 12 4.93379 12C5.168 12 5.39263 11.907 5.55827 11.7414L11.7412 5.55846C11.9069 5.39285 11.9999 5.16822 12 4.93398V0.883276C12 0.649017 11.9069 0.424352 11.7413 0.258706C11.5756 0.0930591 11.351 0 11.1167 0ZM11.1167 4.93398L4.93379 11.1169L0.883087 7.06621L7.06602 0.883276H11.1167V4.93398Z"></path>
+                                            </svg>
+                                            Consulting
+                                         </a>
+                                      </li>
+
+                                   </ul>
+                                   <div class="title-and-btn">
+                                      <h4><a href="{{url('/')}}/area-of-expertise/technology-law-and-intellectual-property">Technology Law and Intellectual Property</a></h4>
+                                      <a class="explore-btn" href="{{url('/')}}/area-of-expertise/technology-law-and-intellectual-property">
+                                         Read More
+                                         <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1865 1.06237L0 11.2484L0.751627 12L10.9376 1.81347V8.85645H12V0H3.14355V1.06237H10.1865Z"></path>
+                                         </svg>
+                                      </a>
+                                   </div>
+                                </div>
+                             </div>
+                          </div>
+                       </div>
+                    </div>
+                 </div>
+             </div>
+          </div>
+       </div>
+    </div>
+ </div>
+ {{--  --}}
  <div class="testimonial-section2 two mb-130">
     <div class="container-fluid one">
        <div class="row">
@@ -281,7 +615,7 @@
                       </div>
                       <div class="people-content">
                          <div class="name-degi">
-                            <h5><a href="people-details.html">Carol Chepkoech</a></h5>
+                            <h5><a href="{{url('/')}}/our-people/carol-chepkoech">Carol Chepkoech</a></h5>
                             <span>Managing Partner</span>
                          </div>
                          <ul class="social-icon">
@@ -298,7 +632,7 @@
                       </div>
                       <div class="people-content">
                          <div class="name-degi">
-                            <h5><a href="#">Mercy Mutai</a></h5>
+                            <h5><a href="{{url('/')}}/our-people/mercy-mutai">Mercy Mutai</a></h5>
                             <span>Partner</span>
                          </div>
                          <ul class="social-icon">
