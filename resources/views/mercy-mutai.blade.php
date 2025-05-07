@@ -1,4 +1,4 @@
-@extends('master')
+@extends('seo.master-mercy-mutai')
 
 @section('content')
 <div class="breadcrumb-section people-details" style="background-image: url('{{asset('uploads/mercy.jpg')}}');">

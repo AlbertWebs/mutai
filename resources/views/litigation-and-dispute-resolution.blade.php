@@ -1,4 +1,4 @@
-@extends('master')
+@extends('seo.master-litigation-and-dispute-resolution')
 
 @section('content')
 <div class="breadcrumb-section" style="background-image: linear-gradient(270deg, rgba(0, 0, 0, .55), rgba(0, 0, 0, 0.55) 101.02%), url('{{url('/')}}/uploads/mercy.jpg');">

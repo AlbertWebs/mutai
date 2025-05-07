@@ -16,25 +16,25 @@
 
 
       <!-- SEO Meta Tags -->
-        <title>Mutai Advocates LLC | Expert Legal Services in Nairobi, Kenya</title>
-        <meta name="description" content="Mutai Advocates LLC is a premier law firm based at Jambo Apartments, Nairobi, offering expert legal services in litigation, commercial law, real estate, family law, and more. Call +254 727 045 485 or email hello@mutaiadvocatesllp.com.">
-        <meta name="keywords" content="Mutai Advocates, Law Firm Nairobi, Legal Services Kenya, Litigation Lawyers, Real Estate Lawyers, Commercial Law Kenya, Family Law Kenya, Advocates Nairobi, Legal Consultancy Nairobi, Mutai Advocates LLC">
+       <!-- SEO Meta Tags -->
+        <title>About Us | Mutai Advocates LLC – Experienced Legal Experts in Nairobi</title>
+        <meta name="description" content="Learn more about Mutai Advocates LLC, a premier law firm in Nairobi specializing in litigation, commercial law, real estate, family law, and legal consultancy. Discover our mission, values, and experienced legal team.">
+        <meta name="keywords" content="About Mutai Advocates, Law Firm Nairobi, Legal Experts Kenya, Litigation Lawyers, Real Estate Law, Family Law Nairobi, Commercial Law Kenya, Legal Consultancy, Experienced Lawyers, Mutai Advocates LLC">
         <meta name="author" content="Mutai Advocates LLC">
 
         <!-- Open Graph Tags (Facebook, LinkedIn, etc.) -->
-        <meta property="og:title" content="Mutai Advocates LLC | Expert Legal Services in Nairobi, Kenya" />
-        <meta property="og:description" content="Based at Jambo Apartments, Mutai Advocates LLC provides legal services in litigation, real estate, commercial law, and more. Reach us at +254 727 045 485." />
-        <meta property="og:url" content="https://mutaiadvocatesllp.com" />
+        <meta property="og:title" content="About Mutai Advocates LLC – Experienced Legal Experts in Nairobi" />
+        <meta property="og:description" content="Discover the mission, vision, and legal team behind Mutai Advocates LLC. We specialize in commercial law, litigation, real estate, and family law in Nairobi." />
+        <meta property="og:url" content="https://mutaiadvocatesllp.com/about-us" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Mutai Advocates LLC" />
         <meta property="og:locale" content="en_KE" />
 
         <!-- Twitter Card Tags -->
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Mutai Advocates LLC | Expert Legal Services in Nairobi" />
-        <meta name="twitter:description" content="Trusted Nairobi-based law firm offering a wide range of legal services. Located at Jambo Apartments next to Naivas Prestige." />
-
-        <link rel="apple-touch-icon" sizes="180x180" href="{{asset('favicon/apple-touch-icon.png')}}">
+        <meta name="twitter:title" content="About Us | Mutai Advocates LLC – Experienced Legal Experts in Nairobi" />
+        <meta name="twitter:description" content="Learn more about the team and services at Mutai Advocates LLC, a leading law firm in Nairobi specializing in litigation, commercial law, and real estate." />
+                <link rel="apple-touch-icon" sizes="180x180" href="{{asset('favicon/apple-touch-icon.png')}}">
         <link rel="icon" type="image/png" sizes="32x32" href="{{asset('favicon/favicon-32x32.png')}}">
         <link rel="icon" type="image/png" sizes="16x16" href="{{asset('favicon/favicon-16x16.png')}}">
         <link rel="manifest" href="{{asset('favicon/site.webmanifest')}}">
@@ -42,15 +42,6 @@
       {{-- <link rel="icon" href="{{asset('theme/assets/img/sm-logo.svg')}}" type="image/gif" sizes="20x20"> --}}
    </head>
    <body id="body" class="tt-smooth-scroll tt-magic-cursor">
-    {{--  --}}
-    <h1 style="display:none">Trusted Legal Solutions for Businesses & Individuals in Kenya</h1>
-
-    <h2 style="display:none">Commercial and Corporate Law</h2>
-    <h2 style="display:none">Litigation & Dispute Resolution</h2>
-    <h2 style="display:none">Conveyancing & Banking Finance</h2>
-    <h2 style="display:none">Tax Law and Advisory</h2>
-    <h2 style="display:none">Technology Law & Intellectual Property</h2>
-    {{--  --}}
       <div id="magic-cursor">
          <div id="ball"></div>
       </div>

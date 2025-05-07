@@ -15,24 +15,26 @@
       <link rel="stylesheet" href="{{asset('theme/assets/css/style.css')}}">
 
 
-      <!-- SEO Meta Tags -->
-        <title>Mutai Advocates LLC | Expert Legal Services in Nairobi, Kenya</title>
-        <meta name="description" content="Mutai Advocates LLC is a premier law firm based at Jambo Apartments, Nairobi, offering expert legal services in litigation, commercial law, real estate, family law, and more. Call +254 727 045 485 or email hello@mutaiadvocatesllp.com.">
-        <meta name="keywords" content="Mutai Advocates, Law Firm Nairobi, Legal Services Kenya, Litigation Lawyers, Real Estate Lawyers, Commercial Law Kenya, Family Law Kenya, Advocates Nairobi, Legal Consultancy Nairobi, Mutai Advocates LLC">
-        <meta name="author" content="Mutai Advocates LLC">
+     <!-- SEO Meta Tags -->
+    <title>Carol Chepkoech | Commercial & Corporate Law Expert - Mutai Advocates LLC</title>
+    <meta name="description" content="Carol Chepkoech is a partner at Mutai Advocates LLC specializing in Commercial and Corporate Law, Conveyancing, and Banking & Finance. Discover her legal expertise.">
+    <meta name="keywords" content="Carol Chepkoech, Mutai Advocates, Commercial Law Kenya, Corporate Law Nairobi, Banking & Finance, Conveyancing Lawyer, Legal Consultancy, Law Firm Kenya">
+    <meta name="author" content="Mutai Advocates LLC">
 
-        <!-- Open Graph Tags (Facebook, LinkedIn, etc.) -->
-        <meta property="og:title" content="Mutai Advocates LLC | Expert Legal Services in Nairobi, Kenya" />
-        <meta property="og:description" content="Based at Jambo Apartments, Mutai Advocates LLC provides legal services in litigation, real estate, commercial law, and more. Reach us at +254 727 045 485." />
-        <meta property="og:url" content="https://mutaiadvocatesllp.com" />
-        <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Mutai Advocates LLC" />
-        <meta property="og:locale" content="en_KE" />
+    <!-- Open Graph Tags (Facebook, LinkedIn, etc.) -->
+    <meta property="og:title" content="Carol Chepkoech | Commercial & Corporate Law Expert - Mutai Advocates LLC" />
+    <meta property="og:description" content="Explore Carol Chepkoech's profile at Mutai Advocates LLC, specializing in Commercial and Corporate Law, Conveyancing, and Banking & Finance." />
+    <meta property="og:url" content="https://mutaiadvocatesllp.com/our-people/carol-chepkoech" />
+    <meta property="og:image" content="https://mutaiadvocatesllp.com/uploads/DSC_0065.jpg" />
+    <meta property="og:type" content="profile" />
+    <meta property="og:site_name" content="Mutai Advocates LLC" />
+    <meta property="og:locale" content="en_KE" />
 
-        <!-- Twitter Card Tags -->
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Mutai Advocates LLC | Expert Legal Services in Nairobi" />
-        <meta name="twitter:description" content="Trusted Nairobi-based law firm offering a wide range of legal services. Located at Jambo Apartments next to Naivas Prestige." />
+    <!-- Twitter Card Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Carol Chepkoech | Commercial & Corporate Law Expert - Mutai Advocates LLC" />
+    <meta name="twitter:description" content="Learn more about Carol Chepkoech, a partner at Mutai Advocates LLC specializing in Corporate and Commercial Law." />
+    <meta name="twitter:image" content="https://mutaiadvocatesllp.com/uploads/DSC_0065.jpg" />
 
         <link rel="apple-touch-icon" sizes="180x180" href="{{asset('favicon/apple-touch-icon.png')}}">
         <link rel="icon" type="image/png" sizes="32x32" href="{{asset('favicon/favicon-32x32.png')}}">
@@ -42,15 +44,6 @@
       {{-- <link rel="icon" href="{{asset('theme/assets/img/sm-logo.svg')}}" type="image/gif" sizes="20x20"> --}}
    </head>
    <body id="body" class="tt-smooth-scroll tt-magic-cursor">
-    {{--  --}}
-    <h1 style="display:none">Trusted Legal Solutions for Businesses & Individuals in Kenya</h1>
-
-    <h2 style="display:none">Commercial and Corporate Law</h2>
-    <h2 style="display:none">Litigation & Dispute Resolution</h2>
-    <h2 style="display:none">Conveyancing & Banking Finance</h2>
-    <h2 style="display:none">Tax Law and Advisory</h2>
-    <h2 style="display:none">Technology Law & Intellectual Property</h2>
-    {{--  --}}
       <div id="magic-cursor">
          <div id="ball"></div>
       </div>

@@ -14,25 +14,27 @@
       <link href="{{asset('theme/assets/css/aos.css')}}" rel="stylesheet">
       <link rel="stylesheet" href="{{asset('theme/assets/css/style.css')}}">
 
-
-      <!-- SEO Meta Tags -->
-        <title>Mutai Advocates LLC | Expert Legal Services in Nairobi, Kenya</title>
-        <meta name="description" content="Mutai Advocates LLC is a premier law firm based at Jambo Apartments, Nairobi, offering expert legal services in litigation, commercial law, real estate, family law, and more. Call +254 727 045 485 or email hello@mutaiadvocatesllp.com.">
-        <meta name="keywords" content="Mutai Advocates, Law Firm Nairobi, Legal Services Kenya, Litigation Lawyers, Real Estate Lawyers, Commercial Law Kenya, Family Law Kenya, Advocates Nairobi, Legal Consultancy Nairobi, Mutai Advocates LLC">
+       <!-- SEO Meta Tags -->
+        <title>Litigation and Dispute Resolution | Mutai Advocates LLC - Legal Experts in Nairobi</title>
+        <meta name="description" content="Mutai Advocates LLC provides expert legal services in Litigation and Dispute Resolution. We offer representation in court, arbitration, mediation, and other dispute resolution methods in Nairobi, Kenya.">
+        <meta name="keywords" content="Litigation Lawyers Kenya, Dispute Resolution Nairobi, Arbitration Services, Mediation Lawyers, Court Representation, Legal Disputes, Mutai Advocates, Legal Services Nairobi, Litigation Experts">
         <meta name="author" content="Mutai Advocates LLC">
 
         <!-- Open Graph Tags (Facebook, LinkedIn, etc.) -->
-        <meta property="og:title" content="Mutai Advocates LLC | Expert Legal Services in Nairobi, Kenya" />
-        <meta property="og:description" content="Based at Jambo Apartments, Mutai Advocates LLC provides legal services in litigation, real estate, commercial law, and more. Reach us at +254 727 045 485." />
-        <meta property="og:url" content="https://mutaiadvocatesllp.com" />
+        <meta property="og:title" content="Litigation and Dispute Resolution | Mutai Advocates LLC - Legal Experts in Nairobi" />
+        <meta property="og:description" content="Mutai Advocates LLC provides expert services in Litigation and Dispute Resolution, including court representation, arbitration, and mediation for clients in Nairobi, Kenya." />
+        <meta property="og:image" content="https://mutaiadvocatesllp.com/uploads/cormercial.jpg" />
+        <meta property="og:url" content="https://mutaiadvocatesllp.com/area-of-expertise/litigation-and-dispute-resolution" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Mutai Advocates LLC" />
         <meta property="og:locale" content="en_KE" />
 
         <!-- Twitter Card Tags -->
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Mutai Advocates LLC | Expert Legal Services in Nairobi" />
-        <meta name="twitter:description" content="Trusted Nairobi-based law firm offering a wide range of legal services. Located at Jambo Apartments next to Naivas Prestige." />
+        <meta name="twitter:title" content="Litigation and Dispute Resolution | Mutai Advocates LLC - Legal Experts in Nairobi" />
+        <meta name="twitter:description" content="Expert legal services in Litigation and Dispute Resolution, including representation in court, arbitration, and mediation in Nairobi, Kenya. Contact Mutai Advocates LLC today." />
+        <meta name="twitter:image" content="https://mutaiadvocatesllp.com/uploads/cormercial.jpg" />
+
 
         <link rel="apple-touch-icon" sizes="180x180" href="{{asset('favicon/apple-touch-icon.png')}}">
         <link rel="icon" type="image/png" sizes="32x32" href="{{asset('favicon/favicon-32x32.png')}}">
@@ -42,15 +44,6 @@
       {{-- <link rel="icon" href="{{asset('theme/assets/img/sm-logo.svg')}}" type="image/gif" sizes="20x20"> --}}
    </head>
    <body id="body" class="tt-smooth-scroll tt-magic-cursor">
-    {{--  --}}
-    <h1 style="display:none">Trusted Legal Solutions for Businesses & Individuals in Kenya</h1>
-
-    <h2 style="display:none">Commercial and Corporate Law</h2>
-    <h2 style="display:none">Litigation & Dispute Resolution</h2>
-    <h2 style="display:none">Conveyancing & Banking Finance</h2>
-    <h2 style="display:none">Tax Law and Advisory</h2>
-    <h2 style="display:none">Technology Law & Intellectual Property</h2>
-    {{--  --}}
       <div id="magic-cursor">
          <div id="ball"></div>
       </div>
