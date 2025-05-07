@@ -878,7 +878,7 @@
        </div>
     </div>
  </div>
- <div class="contact-section2" id="contact">
+ {{-- <div class="contact-section2" id="contact">
     <div class="container-fluid one pl--95">
        <div class="row g-4">
           <div class="col-lg-6 d-flex align-items-center">
@@ -908,5 +908,5 @@
           </div>
        </div>
     </div>
- </div>
+ </div> --}}
 @endsection
