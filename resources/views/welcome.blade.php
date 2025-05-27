@@ -10,7 +10,7 @@
                 <div class="eg-card3 banner-hover" data-src="{{asset('uploads/corporate-Law.jpg')}}">
                    <div class="card-content">
                       <div class="catgory-and-title">
-                         <a href="services1.html">Business</a>
+                         <a href="{{url('/')}}/area-of-expertise/commercial-and-corporate-law">Business</a>
                          <h5><a href="#">Commercial and Corporate Law</a></h5>
                       </div>
                       <p>The Firm excels in contract negotiation and drafting, business structuring</p>
@@ -21,7 +21,7 @@
                 <div class="eg-card3 banner-hover" data-src="{{asset('uploads/pexels-cmrcn-30243609.jpg')}}">
                    <div class="card-content">
                       <div class="catgory-and-title">
-                         <a href="services1.html">Consulting</a>
+                         <a href="{{url('/')}}/area-of-expertise/conveyancing-and-banking-and-finance">Consulting</a>
                          <h5><a href="#">Conveyancing and Banking & Finance</a></h5>
                       </div>
                       <p>The Firm provides expert advice and services for both residential and commercial</p>
@@ -32,7 +32,7 @@
                 <div class="eg-card3 banner-hover" data-src="{{asset('uploads/pexels-ekaterina-bolovtsova-6077797.jpg')}}">
                    <div class="card-content">
                       <div class="catgory-and-title">
-                         <a href="services1.html">Tech</a>
+                         <a href="{{url('/')}}/area-of-expertise/litigation-and-dispute-resolution">Tech</a>
                          <h5><a href="#">Litigation & Dispute Resolution</a></h5>
                       </div>
                       <p>Our practice is focused on effective dispute resolution, providing representation</p>
@@ -44,7 +44,7 @@
                 <div class="eg-card3 banner-hover" data-src="{{asset('uploads/pexels-n-voitkevich-6863186.jpg')}}">
                    <div class="card-content">
                       <div class="catgory-and-title">
-                         <a href="services1.html">Taxation</a>
+                         <a href="{{url('/')}}/area-of-expertise/tax-law">Taxation</a>
                          <h5><a href="#">Tax Law</a></h5>
                       </div>
                       <p>The Firm also offers robust tax litigation and dispute resolution services</p>
@@ -55,7 +55,7 @@
                 <div class="eg-card3 banner-hover" data-src="{{asset('uploads/pexels-ekaterina-bolovtsova-6077665.jpg')}}">
                    <div class="card-content">
                       <div class="catgory-and-title">
-                         <a href="services1.html">Tech</a>
+                         <a href="{{url('/')}}/area-of-expertise/technology-law-and-intellectual-property">Tech</a>
                          <h5><a href="#">Technology Law and Intellectual Property</a></h5>
                       </div>
                       <p>The Firm advises on technology transactions and licensing, handles patent</p>
@@ -531,7 +531,7 @@
                                </h2>
                             </div>
                             <div class="sulution-approach">
-                               <h3>Target Clients :</h3>
+                               <h3>Our CLients Include :</h3>
                                <ul>
                                   <li>
                                      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">

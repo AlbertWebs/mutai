@@ -43,7 +43,7 @@
                     legal advisory support on matters related to debt recovery.</p>
 
                     <p>Prior to founding the Firm, Carol served as a Legal Counsel at NCBA Bank Kenya
-                    PLC from October 2019 to 2024, where she undertook a wide range of responsibilities.
+                    PLC from October 2019 to 2025, where she undertook a wide range of responsibilities.
                     These include advising on corporate lending transactions, structuring
                     deals to protect the bank’s interests, and drafting and negotiating various contracts,
                     including service agreements, leases, licenses, and IT contracts. She also
@@ -168,7 +168,7 @@
                    <tbody>
                       <tr>
                          <td>8 Years <br>
-                            of Experineces
+                            of Experience
                          </td>
                          <td>90% Plus Customer Satisfaction</td>
                       </tr>
@@ -238,6 +238,18 @@
                    </li>
                 </ul>
              </div> --}}
+             <div class="pepople-feature">
+                <h3>#</h3>
+                <ul>
+                   <li>
+                      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+                         <path d="M12.1223 3.1903C12.1631 3.23094 12.1954 3.27922 12.2174 3.33237C12.2395 3.38552 12.2508 3.4425 12.2508 3.50005C12.2508 3.5576 12.2395 3.61458 12.2174 3.66773C12.1954 3.72088 12.1631 3.76916 12.1223 3.8098L5.99731 9.9348C5.95667 9.97554 5.9084 10.0079 5.85524 10.0299C5.80209 10.052 5.74511 10.0633 5.68756 10.0633C5.63002 10.0633 5.57304 10.052 5.51988 10.0299C5.46673 10.0079 5.41845 9.97554 5.37781 9.9348L2.31531 6.8723C2.23316 6.79015 2.18701 6.67873 2.18701 6.56255C2.18701 6.44637 2.23316 6.33495 2.31531 6.2528C2.39747 6.17065 2.50889 6.1245 2.62506 6.1245C2.74124 6.1245 2.85266 6.17065 2.93481 6.2528L5.68756 9.00642L11.5028 3.1903C11.5435 3.14956 11.5917 3.11723 11.6449 3.09518C11.698 3.07312 11.755 3.06177 11.8126 3.06177C11.8701 3.06177 11.9271 3.07312 11.9802 3.09518C12.0334 3.11723 12.0817 3.14956 12.1223 3.1903Z"></path>
+                      </svg>
+                      <span>Advocate of the High Court of Kenya
+                   </li>
+
+                </ul>
+             </div>
           </div>
        </div>
     </div>
