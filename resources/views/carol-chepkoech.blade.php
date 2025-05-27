@@ -94,7 +94,7 @@
                                </svg>
                             </div>
                             <div class="content">
-                               <a href="tel:+254 727 045485">+254 727 045485 </a>
+                               <a href="tel:+254 799 468 268">+254 799 468 268 </a>
                             </div>
                          </div>
                       </div>

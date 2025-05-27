@@ -82,8 +82,10 @@
                 </div>
                 <div class="logo-area">
                    <div class="marquee_text2">
-                      <a href="#"><img src="{{asset('theme/assets/img/home1/company-logo-01.png')}}" alt></a>
-                      <a href="#"><img src="{{asset('theme/assets/img/home1/company-logo-02.png')}}" alt></a>
+                      <a href="#"><img style="width:200px; object-fit:cover" src="{{asset('uploads/output-onlinepngtools.png')}}" alt></a>
+                      <a href="#"><img style="width:200px; object-fit:cover" src="{{asset('uploads/Royaltech-Original-1.png')}}" alt></a>
+                      <a href="#"><img style="width:200px; object-fit:cover" src="{{asset('uploads/Original on transparent.avif')}}" alt></a>
+                      <a href="#"><img style="width:200px; object-fit:cover" src="{{asset('uploads/access.png')}}" alt></a>
                    </div>
                 </div>
              </div>
@@ -102,9 +104,12 @@
                     Mutai Advocates LLP is an innovative, tech-driven law firm founded by
                     two experienced partners with over ten (10) years of combined legal
                     expertise. We specialize in a wide range of legal services,
-                        <span>including
-                            Commercial and Corporate Law, Conveyancing and Banking & Finance,
-                            Commercial Litigation, Technology Law, and Intellectual Property. </span>
+                        <span style="color:#A06E2B">including:<br>
+                            Commercial and Corporate Law<br>
+                            Conveyancing and Banking & Finance<br>
+                            Commercial Litigation<br>
+                            Technology Law<br>
+                            Intellectual Property. </span>
                     </h2>
                 </div>
                 <div class="btn-and-review">
@@ -174,7 +179,16 @@
           <div class="col-lg-5">
              <div class="section-title1 two mb-50">
                 <span>Areas Of Expertise</span>
-                <h2>At Mutai Advocates, our expertise encompasses a wide spectrum of legal services, including Commercial and Corporate Law, Conveyancing and Banking & Finance, Litigation & Dispute Resolution, Tax Law, Technology Law, and Intellectual Property. We are dedicated to providing strategic and effective legal solutions tailored to our clients' needs.</h2>
+                <h2>At Mutai Advocates, our expertise encompasses a wide spectrum of legal services, including:
+                  <span style="color:#A06E2B">
+                     Commercial and Corporate Law,
+                     Conveyancing and Banking & Finance,
+                     Litigation & Dispute Resolution,
+                     Tax Law,
+                     Technology Law,
+                     Intellectual Property.
+                  </span>
+                     We are dedicated to providing strategic and effective legal solutions tailored to our clients' needs.</h2>
                 <a class="primary-btn1 btn-hover" href="{{url('/')}}/area-of-expetiese">
                    Explore More
                    <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">

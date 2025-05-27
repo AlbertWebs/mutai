@@ -32,8 +32,10 @@
                 </div>
                 <div class="logo-area">
                    <div class="marquee_text2">
-                      <a href="#"><img src="{{asset('theme/assets/img/home1/company-logo-01.png')}}" alt></a>
-                      <a href="#"><img src="{{asset('theme/assets/img/home1/company-logo-02.png')}}" alt></a>
+                     <a href="#"><img style="width:200px; object-fit:cover" src="{{asset('uploads/output-onlinepngtools.png')}}" alt></a>
+                      <a href="#"><img style="width:200px; object-fit:cover" src="{{asset('uploads/Royaltech-Original-1.png')}}" alt></a>
+                      <a href="#"><img style="width:200px; object-fit:cover" src="{{asset('uploads/Original on transparent.avif')}}" alt></a>
+                      <a href="#"><img style="width:200px; object-fit:cover" src="{{asset('uploads/access.png')}}" alt></a>
                    </div>
                 </div>
              </div>
@@ -52,7 +54,7 @@
           </div>
           <div class="col-lg-8 pl--95">
              <div class="mission-content-wrap">
-                <div class="mission-content-top">
+                <div class="mission-content-top" style="text-align: justify;">
                    <div class="section-title1 w-890">
                       <h2>Expert Legal Solutions in Commercial, Corporate, Banking & Finance, and Technology Law</h2>
                    </div>
