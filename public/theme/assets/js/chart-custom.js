@@ -25,7 +25,7 @@ var barChart = new Chart(densityCanvas, {
             },
         },
         interaction: {
-            intersect: false,
+            intersect: true,
         },
         responsive: true
     }
