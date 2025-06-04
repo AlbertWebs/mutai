@@ -642,7 +642,7 @@
                 <div class="col-md-6">
                    <div class="people-card3 magnetic-item">
                       <div class="people-img">
-                         <img src="{{asset('uploads/DSC_0065.jpg')}}" alt>
+                         <img src="{{asset('uploads/mercies.jpeg')}}" alt>
                       </div>
                       <div class="people-content">
                          <div class="name-degi">
