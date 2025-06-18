@@ -272,11 +272,12 @@
                               </div>
                               <div class="menu-container">
                                  <ul>
-                                    <li><a href="#">Commercial and Corporate Law:</a></li>
-                                    <li><a href="#">Conveyancing and Banking & Finance</a></li>
-                                    <li><a href="#">Litigation & Dispute Resolution</a></li>
-                                    <li><a href="#">Tax Law</a></li>
-                                    <li><a href="#">Technology Law and Intellectual Property</a></li>
+                                    <?php
+                                       $Service = DB::table('services')->get();   
+                                    ?>
+                                    @foreach ($Service as $item)
+                                    <li><a href="{{url('/')}}/area-of-expertise/{{$item->slug}}">{{$item->title}}</a></li>
+                                    @endforeach
                                  </ul>
                               </div>
                            </div>
