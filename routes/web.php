@@ -26,22 +26,23 @@ Route::get('/area-of-expertise', function () {
     return view('area-of-expertise');
 });
 
-Route::get('/area-of-expertise/commercial-and-corporate-law', function () {
-    return view('commercial-and-corporate-law');
+Route::get('/area-of-expertise/{slug}', function ($slug) {
+    $Service = DB::table('services')->where('slug',$slug)->get();
+    // Example: return view('area-of-expertise.show', compact('slug'));
+    return view('area-of-expertise', compact('Service'));
 });
 
-Route::get('/area-of-expertise/conveyancing-and-banking-and-finance', function () {
-    return view('conveyancing-and-banking-and-finance');
+// Blog routes
+Route::get('/articles', function () {
+    return view('blog.index');
 });
 
-Route::get('/area-of-expertise/litigation-and-dispute-resolution', function () {
-    return view('litigation-and-dispute-resolution');
+Route::get('/articles/{slug}', function ($slug) {
+    $Blog = DB::table('articles')->where('slug',$slug)->get();
+    // Example: return view('area-of-expertise.show', compact('slug'));
+    return view('blog.index', compact('Blog'));
 });
-
-Route::get('/area-of-expertise/tax-law', function () {
-    return view('tax-law');
-});
-
-Route::get('/area-of-expertise/technology-law-and-intellectual-property', function () {
-    return view('technology-law-and-intellectual-property');
-});
+// Blog routes
+// Route::get('/articles/{slung}', function () {
+//     return view('blog.index');
+// });
